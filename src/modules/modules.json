@@ -1,7 +1,7 @@
 [
- 
+
   {
-    "name": "Git and Version Control",
+    "name": "Team and Professional Skills",
     "overview": "Version control is a way of keeping track of changes to files over time so that you can recall previous versions when needed and also easily work with other teammates collaboratively",
     "objectives": [
       "Understand basic terminal commands",
@@ -21,9 +21,9 @@
         "link": "content/0/version-control"
       }]
   },
-  
+
   {
-    "name": "Object Oriented Programming",
+    "name": "Stack-Agnostic Technical Skills",
     "overview":
       "Object oriented programming is a paradigm and a way of thinking that helps programmers effectively model real-life scenarios. In this module, we will cover general OOP concepts and OOP in Python / JavaScript.",
     "objectives": [
@@ -53,7 +53,7 @@
       }
     ]
   },
-  
+
   {
     "name": "Test Driven Development",
     "overview": "TDD is a software development process in which one writes tests before writing production code thus giving one an opportunity to think through a systems requirements.",
@@ -95,7 +95,7 @@
     }
     ]
   },
-  
+
   {
     "name": "HTTP and Web Services",
     "overview":
@@ -107,7 +107,7 @@
       "Understand and explain RESTful API design"
     ],
     "content": [
-      
+
       {
       "name": "web-services",
       "title": "Http and web services",
@@ -125,7 +125,7 @@
       "Understand how to use Pivotal Tracker"
     ],
     "content":[
-      
+
       {
         "name": "project-management",
         "title": "Pivotal Tracker",
@@ -136,7 +136,7 @@
         "title": "Introduction to Agile Methodology",
         "link": "https://www.codeproject.com/Articles/704600/An-introduction-to-Agile-Methodology/"
       }
-      
+
      ]
   }
 ]
