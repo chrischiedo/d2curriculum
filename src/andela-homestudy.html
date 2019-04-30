@@ -155,7 +155,7 @@
         margin-bottom: 40px;
         z-index: 900;
       }
-    </style>    
+    </style>
 
     <app-location route="{{route}}" ></app-location>
     <app-route
@@ -166,7 +166,7 @@
 
     <iron-localstorage name="ahs-app-storage" value="{{localStore}}" on-iron-localstorage-load="LocalStoreLoaded" on-iron-localstorage-load-empty="initializeLocalStore">
     </iron-localstorage>
-    
+
     <app-drawer-layout force-narrow="">
       <!-- Drawer content -->
       <app-drawer id="drawer" slot="drawer">
@@ -194,7 +194,7 @@
               </span>
               <span class="title-span">
                 <a name="home" href="home">
-                  Andela ALC Pathway
+                  Andela Softare Engineer Curriculum
                 </a>
               </span>
             </div>
@@ -235,7 +235,7 @@
       </app-header-layout>
     </app-drawer-layout>
   </template>
-  
+
   <script src="../bower_components/web-animations-js/web-animations.min.js"></script>
   <script src="../bower_components/web-animations-js/web-animations-next-lite.min.js"></script>
 
@@ -315,7 +315,7 @@
         if (!this.$.drawer.persistent) {
           this.$.drawer.close();
         }
-        
+
         let pageView = `${this.page}${this.subroute.path}`;
         this._gaPageView(pageView);
       }
@@ -344,7 +344,7 @@
 
       _pyCheckedChanged() {
         this.modifyLocalStore();
-        
+
         let lang = (this.pyChecked === true ? 'Python' : 'JavaScript');
         this._gaEvt('Language Switch', lang, 'UI Interaction');
       }
@@ -363,7 +363,7 @@
         this.localStore.usingPy = this.pyChecked;
         this.notifyPath('localStore.usingPy');
       }
-      
+
       _tappedFeedbackLink(e) {
         this._gaEvt('AHS Feedback', 'click', 'UI Interaction');
       }
