@@ -25,10 +25,12 @@
   {
     "name": "Stack-Agnostic Technical Skills",
     "overview":
-      "Object oriented programming is a paradigm and a way of thinking that helps programmers effectively model real-life scenarios. In this module, we will cover general OOP concepts and OOP in Python / JavaScript.",
+      "The technical skills covered under this section are those that cut across all language stacks. Understanding these skills well will set up for success in the subsequent sections.",
     "objectives": [
-      "Object oriented programming concepts, classes and objects.",
-      "Implement object oriented programming concepts in Python / JavaScript."
+      "Proper understanding of Data Structures and Algorithms",
+      "Introduction to the Functional Programming paradigm",
+      "Application of System Design knowledge to Sofware Development",
+      "Introduction to common software Design Patterns."
     ],
     "content": [
       {
