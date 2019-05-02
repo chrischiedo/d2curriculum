@@ -34,24 +34,46 @@
     ],
     "content": [
       {
-        "coverage": "1",
-        "name": "oop",
-        "title": "What is Object Oriented Programming",
-        "link": "content/1/oop"
+        "name": "data-structures-and-algorithms",
+        "title": "Data Structures and Algorithms",
+        "link": "content/1/data-structures-and-algorithms",
+        "source": "andela"
       },
       {
-        "lang": "py",
-        "coverage": "1, 2",
-        "name": "py-oop--py",
-        "title": "Object Oriented Programming in Python",
-        "link": "content/1/py-oop--py"
+        "name": "regular-expressions",
+        "title": "Regular Expressions",
+        "link": "content/1/regular-expressions",
+        "source": "andela"
       },
       {
-        "lang": "js",
-        "coverage": "1, 2",
-        "name": "js-oop--js",
-        "title": "Introducing JavaScript Objects",
-        "link": "content/1/js-oop--js"
+        "name": "version-control",
+        "title": "Git and Version Control",
+        "link": "content/1/version-control",
+        "source": "andela"
+      },
+      {
+        "name": "databases",
+        "title": "Databases and SQL Queries",
+        "link": "content/1/databases",
+        "source": "andela"
+      },
+      {
+        "name": "functional-programming",
+        "title": "Functional Programming",
+        "link": "content/1/functional-programming",
+        "source": "andela"
+      },
+      {
+        "name": "systems-design",
+        "title": "Systems Design",
+        "link": "content/1/systems-design",
+        "source": "andela"
+      },
+      {
+        "name": "design-patterns",
+        "title": "Design Patterns",
+        "link": "content/1/design-patterns",
+        "source": "andela"
       }
     ]
   },
