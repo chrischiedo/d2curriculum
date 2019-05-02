@@ -1,12 +1,11 @@
 ## **Overview**
 
-"Algorithms + Data Structures = Programs" ~ Niklaus Wirth.
-A deeper understanding of Data Structures and Algorithms is very crucial for any software engineer worth their salt. This module covers the fundamental concepts on Data Structures and Algorithms with the aim of making the learner knowledgeable in the most important aspects of computer science.
+Any developer who works in a team needs to have a strong understanding of Version Control. This is a vital skill that enables software developers to keep track of changes that they make while working on their projects. This module covers version control concepts that are important to distributed teamwork.
 
 ## **Learning Outcomes**
-1. Understand how to design and implement the most common algorithms
-2. Understand the different types of the most common data structures
-3. Explain how the choice of a particular algorithm/data structure might affect the performance of their application
+### **At the end of this module, the learner should be able to:**
+1. Describe how a distributed version control system works.
+2. Understand how git rebasing and stashing works.
 
 ## **Study Resources**
 | What should I know after going through this resource?   |      Resource Links      |

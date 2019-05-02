@@ -4,6 +4,7 @@
 A deeper understanding of Data Structures and Algorithms is very crucial for any software engineer worth their salt. This module covers the fundamental concepts on Data Structures and Algorithms with the aim of making the learner knowledgeable in the most important aspects of computer science.
 
 ## **Learning Outcomes**
+### **At the end of this module, the learner should be able to:**
 1. Understand how to design and implement the most common algorithms
 2. Understand the different types of the most common data structures
 3. Explain how the choice of a particular algorithm/data structure might affect the performance of their application
