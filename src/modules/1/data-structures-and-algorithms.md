@@ -1,15 +1,14 @@
-## ** Overview **
+## **Overview**
 Aspiring Andelans know what a computer program is and understand the basics. They understand and can explain to their peers what programming is and the general programming concepts. They know the different models of programming, types of programming languages and can give examples of each model and type. They also have the capacity to identify and build the environment that enables them to code.
-----------
-## ** Learning Outcomes: **
+
+## **Learning Outcomes:**
 1. Programming is valuable to me as it affects technology and technology affects me
 2. I can code in any language with the knowledge of core programming concepts
 3. With computer programming, I can tell the computer to do what I want
 4. By understanding basic programming concepts I have taken an important step to becoming a world class developer
 
 ----------
-## ** Study Resources **
-
+## **Study Resources**
 | Resource Description   |      Resource Links      |
 |:-------------|:------------------|
 | * What is Programming|http://interactivepython.org/courselib/static/pythonds/Introduction/WhatIsProgramming.html|
