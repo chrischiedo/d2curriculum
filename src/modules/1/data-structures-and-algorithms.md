@@ -1,8 +1,16 @@
+## ** Overview **
 Aspiring Andelans know what a computer program is and understand the basics. They understand and can explain to their peers what programming is and the general programming concepts. They know the different models of programming, types of programming languages and can give examples of each model and type. They also have the capacity to identify and build the environment that enables them to code.
+----------
+## ** Learning Outcomes: **
+1. Programming is valuable to me as it affects technology and technology affects me
+2. I can code in any language with the knowledge of core programming concepts
+3. With computer programming, I can tell the computer to do what I want
+4. By understanding basic programming concepts I have taken an important step to becoming a world class developer
 
+----------
+## ** Study Resources **
 
-
-| What do I need to know?   |      Resources      |
+| Resource Description   |      Resource Links      |
 |:-------------|:------------------|
 | * What is Programming|http://interactivepython.org/courselib/static/pythonds/Introduction/WhatIsProgramming.html|
 | * Computer Programming Overview|http://www.tutorialspoint.com/computer_programming/computer_programming_overview.htm|
@@ -11,6 +19,14 @@ Aspiring Andelans know what a computer program is and understand the basics. The
 | * Codecademy Python Course|https://www.codecademy.com/learn/python|
 | * Google Developers: Python Introduction|https://developers.google.com/edu/python/introduction|
 | * Recap Python Essentials|http://opentechschool.github.io/python-data-intro/core/recap.html|
+
+----------
+
+## **Knowledge Check:**
+1. Programming is valuable to me as it affects technology and technology affects me
+2. I can code in any language with the knowledge of core programming concepts
+3. With computer programming, I can tell the computer to do what I want
+4. By understanding basic programming concepts I have taken an important step to becoming a world class developer
 
 ----------
 
@@ -36,7 +52,7 @@ C. ** Before I start writing a program: **
 ----------
 
 
-## ** What do I need to believe about programming?: **
+## **What do I need to believe about programming?:**
 1. Programming is valuable to me as it affects technology and technology affects me
 2. I can code in any language with the knowledge of core programming concepts
 3. With computer programming, I can tell the computer to do what I want
