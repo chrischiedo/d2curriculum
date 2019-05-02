@@ -9,9 +9,9 @@ A deeper understanding of Data Structures and Algorithms is very crucial for any
 3. Explain how the choice of a particular algorithm/data structure might affect the performance of their application
 
 ## **Study Resources**
-| Resource Description   |      Resource Links      |
+| What should I know after going through this resource?   |      Resource Links      |
 |:-------------|:------------------|
-| 1. Introduction to Data Structures and Algorithms|https://www.studytonight.com/data-structures/introduction-to-data-structures.php
+| 1. Common Data Structures and Algorithms|[Introduction to Data Structures and Algorithms](https://www.studytonight.com/data-structures/introduction-to-data-structures.php) |
 | 2. 10 Common Data Structures Explained with Videos plus Exercises|https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b
 | 3. Top Data Structures You Should Know|https://medium.freecodecamp.org/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3
 | 4. Algorithms for Beginners|https://medium.com/yay-its-erica/algorithms-for-beginners-bubble-sort-insertion-sort-merge-sort-29bd5506cc48
