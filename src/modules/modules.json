@@ -55,7 +55,7 @@
   },
 
   {
-    "name": "Test Driven Development",
+    "name": "Ruby Fundamentals",
     "overview": "TDD is a software development process in which one writes tests before writing production code thus giving one an opportunity to think through a systems requirements.",
     "objectives": [
       "What tests are",
@@ -97,7 +97,7 @@
   },
 
   {
-    "name": "HTTP and Web Services",
+    "name": "Ruby on Rails Fundamentals",
     "overview":
       "This module will cover the fundamentals of HTTP protocol and Web Services.",
     "objectives": [
@@ -117,7 +117,7 @@
   },
 
   {
-    "name": "Agile Methodology",
+    "name": "Ruby on Rails Capstone Project",
     "overview": "At Andela, we believe in Agile Software Development Methodology, and as such we try to live by its principles.",
     "objectives": [
       "Explain the meaning of agile software development",
