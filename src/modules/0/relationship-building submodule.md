@@ -10,7 +10,6 @@ Click on the image below to watch the video on "how to build trust and relations
 
 [![Relationship Building](http://img.youtube.com/vi/wtNOq1Bwtt4/0.jpg)](http://www.youtube.com/watch?v=wtNOq1Bwtt4 "Relationship Building")
 
-Feedback is critical to self-awareness. Systematic response to feedback breeds trust and respect. If you truly value feedback you must commit to acting on it. Structure is critical to self-improvement. When you add structure to your goals, you become a much more powerful learner.
 
 <br />
 
