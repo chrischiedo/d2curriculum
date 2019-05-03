@@ -1,7 +1,7 @@
 ### **Relationship Building**
 Relationship building is the ability to build rapport with many different people in a relatively short amount of time and develop that into a long-term, enduring relationships. It also involves establishing  rapport with a variety of people from a broad range of backgrounds and professional roles.
 
-<img src="images/group-1825503_640.png" width="500" height = "300"/>
+<img src="images/group-1825503_640.jpg" />
 
 Opportunities to build relationships with people who are very different from me can be very rewarding and has a great impact on your success.
 
