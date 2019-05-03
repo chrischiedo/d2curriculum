@@ -9,7 +9,7 @@ Click on the image below to watch the video on "how to maximize your productivit
 [![Time Management](http://img.youtube.com/vi/eG7cPN1uRAA/0.jpg)](http://www.youtube.com/watch?v=eG7cPN1uRAA "Time Management")
 
 
-<br />
+----
 
 **Here are  15 time management tips for achieving your goals:**
 
