@@ -1,5 +1,20 @@
 [
-
+{
+    "name": "Team and Professional Skills",
+    "overview": "At Andela, team and professional skills prepare our engineers to thrive in a distributed software development team and our EPIC values enable them integrate into a remote work culture. We know that proactive communication is a great skill that enables us to succeed in a distributed team. Consequently, we ask questions, request and give feedback, strive to write professionally, speak to be understood clearly, manage expectations well and build relationships within the team. We adapt quickly to changes and endeavour to understand our organization’s functional focus areas and how different departments interface with one another.
+",
+    "objectives": [
+      "To thrive in a distributed software development team",
+      "To integrate into a remote work culture",
+      ],
+    "content":[
+      {
+        "name": "Leadership",
+        "title": "Leadership",
+        "link": "content/0/leadership"
+      },
+      ]
+  },
   
 
   {
