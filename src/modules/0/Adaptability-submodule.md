@@ -11,7 +11,7 @@ Click on the image below to watch the video on "Change Management".
 
 [![Change Management](http://img.youtube.com/vi/__IlYNMdV9E/0.jpg)](http://www.youtube.com/watch?v=__IlYNMdV9E "Change Management")
 
-<br>
+------
 
 ### **Demonstrating Adaptability**
 **  Here are ways you can embrace change effectively within a team:**
