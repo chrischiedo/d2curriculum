@@ -2,7 +2,7 @@
 
 Project Management tools are software tools applied in the management of a project. These tools are also used by a distributed team in the software development process to collaborate on tasks.
 
-<img src="images/group-1825503_640.jpg" />
+<img src="images/project.jpg" />
 
 <br />
 
