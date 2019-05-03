@@ -11,7 +11,7 @@ Click on the image below to watch the video on "Agile Estimation".
 
 [![Agile Estimation](http://img.youtube.com/vi/7nTxdl29ePY/0.jpg)](http://www.youtube.com/watch?v=7nTxdl29ePY "Agile Estimation")
 
-<br />
+------
 
 **Here are ways to carry out proper estimation of tasks in a team:**
 
