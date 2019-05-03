@@ -2,7 +2,7 @@
 Time Management is the process of organizing and planning the breakdown of your time between specific activities. Good time management enables you to work smarter. When you work smarter, you are productive and you get more done in less time.
 
 
-<img src="images/group-1825503_640.jpg" />
+<img src="images/stopwatch-2061851_640.jpg" />
 
 Click on the image below to watch the video on "how to maximize your productivity as a software developer".
 
