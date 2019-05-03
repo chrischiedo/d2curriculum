@@ -2,7 +2,7 @@
 Estimation in an agile team is the ability to systematically break down work into individual tasks and provide estimates on each to ultimately derive an estimate on the level of effort and time required to complete the work. 
 
 
-<img src="images/group-1825503_640.jpg" />
+<img src="images/project-363266_640 (2)" />
 
 As a mid-level engineer you should be able to defend how you came up with an estimate for a task.
 
