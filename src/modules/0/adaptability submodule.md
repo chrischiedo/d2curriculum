@@ -11,11 +11,12 @@ Click on the image below to watch the video on "Change Management".
 
 [![Change Management](http://img.youtube.com/vi/__IlYNMdV9E/0.jpg)](http://www.youtube.com/watch?v=__IlYNMdV9E "Change Management")
 
+<br>
 
 ### **Demonstrating Adaptability**
 **  Here are ways you can embrace change effectively within a team:**
 
-A. ** When you first join an organization,**
+A. **When you first join an organization,**
 - gain an understanding of their systems and process then look for opportunities to make them more efficient.
 
 B. **When you become aware of a significant change taking place in your team,**
@@ -33,7 +34,7 @@ E. **When you are concerned that a change will have avoidable negative impacts,*
 F. **When you realize that you do not have a sufficient understanding of your organization to recommend changes for greater efficiency,**
 - research and inquire until you gain a complete understanding.
 
-G. ** When you identify areas that need to change for greater efficiency,**
+G. **When you identify areas that need to change for greater efficiency,**
 - offer well-thought-out recommendations to relevant stakeholders that include the benefits of the change relative to the current state.
 
 H. **When your work is not sufficiently challenging,**
@@ -45,6 +46,7 @@ I. **When you identify areas where you could be more challenged,**
 J. **When you propose a change that is not accepted,**
 - adapt to the approach taken by your Client.
 
+<br>
 
 Study Resources
 -------------
