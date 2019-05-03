@@ -11,7 +11,7 @@ Click on the image below to watch the video on "Who is a Mentor?".
 [![Mentorship](http://img.youtube.com/vi/3tVQ7obrki4/0.jpg)](http://www.youtube.com/watch?v=3tVQ7obrki4 "Metorship")
 
 
-<br />
+------
 
 **Here are behaviours that display mentorship:**
 
