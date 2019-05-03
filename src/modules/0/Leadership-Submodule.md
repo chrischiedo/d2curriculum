@@ -10,6 +10,8 @@ Click on the image below to watch the video on "5 Leadership Skills Every Engine
 
 <br />
 
+------
+
 **Here are ways to demonstrate leadership abilities within a team:**
 
 A. **When you first join a team,**
