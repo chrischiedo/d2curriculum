@@ -1,6 +1,6 @@
 ## **Overview**
 
-"Algorithms + Data Structures = Programs" ~ Niklaus Wirth.
+"*Algorithms + Data Structures = Programs*" ~ *Niklaus Wirth*.
 A deeper understanding of Data Structures and Algorithms is very crucial for any software engineer worth their salt. This module covers the fundamental concepts on Data Structures and Algorithms with the aim of making the learner knowledgeable in the most important aspects of computer science.
 
 ## **Learning Outcomes**

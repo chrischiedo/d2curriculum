@@ -1,30 +1,20 @@
 ## **Overview**
 
-"Algorithms + Data Structures = Programs" ~ Niklaus Wirth.
-A deeper understanding of Data Structures and Algorithms is very crucial for any software engineer worth their salt. This module covers the fundamental concepts on Data Structures and Algorithms with the aim of making the learner knowledgeable in the most important aspects of computer science.
+Functional programming has gained a lot of attention more recently among software developers. It is a programming paradigm that values immutability of state and the notion of higher-order functions. This module covers the most important Functional Programming concepts that a modern software engineer should be familiar with.
 
 ## **Learning Outcomes**
-1. Understand how to design and implement the most common algorithms
-2. Understand the different types of the most common data structures
-3. Explain how the choice of a particular algorithm/data structure might affect the performance of their application
+### **At the end of this module, the learner should be able to:**
+1. Understand important Functional Programming concepts e.g. Pure Functions, Higher-order Functions, Closures, Recursion, Referential Transparency, etc
+2. Write software programs in a functional style
+3. Explain how using FP concepts makes programs more efficient and less error-prone.
 
 ## **Study Resources**
 | What should I know after going through this resource?   |      Resource Links      |
 |:-------------|:------------------|
-| * Common Data Structures and Algorithms|[Introduction to Data Structures and Algorithms](https://www.studytonight.com/data-structures/introduction-to-data-structures.php) |
-| * The Common Data Structures|[10 Common Data Structures Explained with Videos plus Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b) |
-| * The Top Data Structures|[Top Data Structures You Should Know](https://medium.freecodecamp.org/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3) |
-| * The 3 Basic Algorithms (Bubble-sort, Insertion-sort, Merge-sort)|[Algorithms for Beginners](https://medium.com/yay-its-erica/algorithms-for-beginners-bubble-sort-insertion-sort-merge-sort-29bd5506cc48) |
-| * The Big-O Algorithm Notation|[Big-O Algorithm Cheatsheet](http://bigocheatsheet.com/) |
-| * Algorithm Time Complexity|[Data Structures and Algorithms, Part 1](https://adrianmejia.com/blog/2018/04/04/how-you-can-change-the-world-learning-data-structures-algorithms-free-online-course-tutorial/) |
-| * The 8 Top Time Complexities|[Data Structures and Algorithms, Part 2](https://adrianmejia.com/blog/2018/04/05/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/) |
-| * Arrays, Hash Maps and Lists|[Data Structures and Algorithms, Part 3](https://adrianmejia.com/blog/2018/04/28/data-structures-time-complexity-for-beginners-arrays-hashmaps-linked-lists-stacks-queues-tutorial/) |
-| * Graphs as Data Structures|[Data Structures and Algorithms, Part 4](https://adrianmejia.com/blog/2018/05/14/data-structures-for-beginners-graphs-time-complexity-tutorial/) |
-| * Trees as Data Structures|[Data Structures and Algorithms, Part 5](https://adrianmejia.com/blog/2018/06/11/data-structures-for-beginners-trees-binary-search-tree-tutorial/) |
-| * Self-balanced Binary Trees|[Data Structures and Algorithms, Part 6](https://adrianmejia.com/blog/2018/07/16/self-balanced-binary-search-trees-with-avl-tree-data-structure-for-beginners/) |
-| * Recursive Algorithms|[Analysis of Recursive Algorithms](https://adrianmejia.com/blog/2018/04/24/analysis-of-recursive-algorithms/) |
+| * Basic Principles of Functional Programming|[Introduction to the Basic Principles of Functional Programming](https://medium.freecodecamp.org/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84) |
+| * The Functional Programming Paradigm|[Functional Programming Paradigm](https://www.geeksforgeeks.org/functional-programming-paradigm/) |
+| * Important Functional Programming Concepts|[A Beginner-friendly Intro To Functional Programming](https://codeburst.io/a-beginner-friendly-intro-to-functional-programming-4f69aa109569) |
 
 ## **Knowledge Check**
-1. Attempt the following **Binary Search Tree** [exercise](https://exercism.io/tracks/ruby/exercises/binary-search-tree/solutions/1dc67570a4bf4902907efca16e43e69d) on *exercism.io*
-2. Attempt the following [Algorithm problem](https://www.hackerrank.com/challenges/non-divisible-subset/problem) on *HackerRank*.
+1. Attempt the following [Functional Programming challenge](https://www.hackerrank.com/challenges/kmp-fp/problem) on *HackerRank*.
 ------------
