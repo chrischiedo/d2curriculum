@@ -1,7 +1,7 @@
 ### **Stakeholder Management**
 This is the ability to understand all stakeholders that are associated with the partner engagement/team and clearly understands what needs to be communicated to each set of stakeholders and how timely the information needs to be. This involves  a complete understanding of Client and Andela's team, roles, goals and history.
 
-<img src="images/stakeholders2.jpg" />
+<img src="images/stakeholders2.jpeg" />
 
 As a mid-level developer you should be able to agree to reasonable, realistic timelines for work requested. Proactively alert stakeholders when expectations will not be met and provide updates on progress in appropriate intervals.
 
