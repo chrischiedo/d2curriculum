@@ -11,7 +11,7 @@ Feedback is critical to self-awareness. Systematic response to feedback breeds t
 
 <img src="images/feedback-1311638_640.png" width="500" height = "300"/>
 
-<br />
+------
 
 **Here are ways you can seek feedback in your team:**
 
