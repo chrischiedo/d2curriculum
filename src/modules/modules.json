@@ -80,42 +80,44 @@
 
   {
     "name": "Ruby Fundamentals",
-    "overview": "TDD is a software development process in which one writes tests before writing production code thus giving one an opportunity to think through a systems requirements.",
+    "overview": "This module covers the most fundamental concepts of the Ruby Programming Language. Essentially, this module gives the learner a firm foundation for the Ruby on Rails module. A deeper understanding of the underlying properties of a particular language that powers a web framework is essential to any web developer.",
     "objectives": [
-      "What tests are",
-      "How to write tests",
-      "How TDD beneficial is to programming",
-      "How to debug"
+      "Proper understanding of how to write idiomatic Ruby code",
+      "A deeper understanding of the art of refactoring",
+      "How to apply OOP concepts in Ruby",
+      "How to implement different Algorithms in Ruby",
+      "Proper understanding of how Ruby Metaprogamming works"
       ],
     "content":[
       {
-      "name": "tdd",
-      "title": "Introduction to TDD",
-      "link": "content/2/tdd"
+        "name": "idiomatic-ruby",
+        "title": "Idiomatic Ruby",
+        "link": "content/2/idiomatic-ruby",
+        "source": "andela"
     },
     {
-      "lang":"py",
-      "name": "py--tdd--py",
-      "title": "TDD in Python",
-      "link": "content/2/py--tdd--py"
+      "name": "ruby-code-refactoring",
+      "title": "Ruby Code Refactoring",
+      "link": "content/2/ruby-code-refactoring",
+      "source": "andela"
     },
     {
-      "lang":"js",
-      "name": "js--tdd--js",
-      "title": "TDD in Javascript",
-      "link": "content/2/js--tdd--js"
+      "name": "oop-ruby",
+      "title": "Object-Oriented Design Concepts in Ruby",
+      "link": "content/2/oop-ruby",
+      "source": "andela"
     },
     {
-      "lang":"js",
-      "name": "js--debugging--js",
-      "title": "Debugging in Javascript",
-      "link": "content/2/js--debugging--js"
+      "name": "dsa-ruby",
+      "title": "Data Structures and Algorithms in Ruby",
+      "link": "content/2/dsa-ruby",
+      "source": "andela"
     },
     {
-      "lang":"py",
-      "name": "py--debugging--py",
-      "title": "Debugging in Python",
-      "link": "content/2/py--debugging--py"
+      "name": "ruby-metaprogamming",
+      "title": "Ruby Metaprogamming",
+      "link": "content/2/ruby-metaprogamming",
+      "source": "andela"
     }
     ]
   },
@@ -123,19 +125,57 @@
   {
     "name": "Ruby on Rails Fundamentals",
     "overview":
-      "This module will cover the fundamentals of HTTP protocol and Web Services.",
+      "Ruby on Rails (RoR) is a Ruby-based web application development framework. The framework is based on Model-View-Controller (MVC) architecture. This module covers the ins-and-outs of this popular web framework.",
     "objectives": [
-      "Explain what HTTP protocol means",
-      "Understand the different HTTP verbs(e.g. PUT, POST)",
-      "Understand the meaning different HTTP status codes",
-      "Understand and explain RESTful API design"
+      "Understanding of the MVC architecture",
+      "Understanding of how to design APIs using Rails",
+      "Understand of Ruby Active Record and ORMs",
+      "Understanding of how TDD is done in Rails",
+      "Understanding of Web Performance Optimization",
+      "Understanding of Web App Security"
     ],
     "content": [
-
-      {
-      "name": "web-services",
-      "title": "Http and web services",
-      "link": "content/3/web-services"
+    {
+      "name": "rails-mvc-architecture",
+      "title": "Ruby on Rails MVC Architecture",
+      "link": "content/3/rails-mvc-architecture",
+      "source": "andela"
+    },
+    {
+      "name": "rails-api-design",
+      "title": "Ruby on Rails API Design",
+      "link": "content/3/rails-api-design",
+      "source": "andela"
+    },
+    {
+      "name": "rails-templating-engines",
+      "title": "Rails Templating Engines",
+      "link": "content/3/rails-templating-engines",
+      "source": "andela"
+    },
+    {
+      "name": "active-record-orm",
+      "title": "Active Record and ORMs",
+      "link": "content/3/active-record-orm",
+      "source": "andela"
+    },
+    {
+      "name": "tdd-rspec",
+      "title": "TDD using RSpec",
+      "link": "content/3/tdd-rspec",
+      "source": "andela"
+    },
+    {
+      "name": "performance-optimization",
+      "title": "Web Performance Optimization",
+      "link": "content/3/performance-optimization",
+      "source": "andela"
+    },
+    {
+      "name": "application-security",
+      "title": "Web Application Security",
+      "link": "content/3/application-security",
+      "source": "andela"
     }
   ]
   },
