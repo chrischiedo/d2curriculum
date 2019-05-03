@@ -14,8 +14,4 @@ Software design patterns describe common (reusable) solutions to common software
 | * Basic Understanding of the Common Design Patterns|[Catalogue of Design Patterns](https://refactoring.guru/design-patterns/catalog) |
 | * The Most Important Software Design Patterns|[The 7 Most Important Software Design Patterns](https://medium.com/educative/the-7-most-important-software-design-patterns-d60e546afb0e) |
 | * Understanding of Basic Concepts of Design Patterns|[An Overview of Design Patterns](https://sourcemaking.com/design_patterns) |
-
-## **Knowledge Check**
-1. Attempt the following **Binary Search Tree** [exercise](https://exercism.io/tracks/ruby/exercises/binary-search-tree/solutions/1dc67570a4bf4902907efca16e43e69d) on *exercism.io*
-2. Attempt the following [Algorithm problem](https://www.hackerrank.com/challenges/non-divisible-subset/problem) on *HackerRank*.
 ------------

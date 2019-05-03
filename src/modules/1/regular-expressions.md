@@ -15,6 +15,6 @@ Regular expressions are extremely useful, especially for extracting information 
 | * How to Use Different Regexes|[Regex Interactive Tutorial](https://regexone.com/) |
 
 ## **Knowledge Check**
-
 1. Attempt the following [regex challenge](https://www.hackerrank.com/challenges/find-a-word/problem) on *HackerRank*.
+
 ------------
