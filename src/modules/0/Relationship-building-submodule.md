@@ -10,8 +10,7 @@ Click on the image below to watch the video on "how to build trust and relations
 
 [![Relationship Building](http://img.youtube.com/vi/wtNOq1Bwtt4/0.jpg)](http://www.youtube.com/watch?v=wtNOq1Bwtt4 "Relationship Building")
 
-
-<br />
+-----
 
 **Here are ways to build relationships within your team:**
 
