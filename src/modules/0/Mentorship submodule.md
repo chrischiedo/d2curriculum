@@ -1,7 +1,7 @@
 ### **Mentorship**
 This is the ability to mentor more junior engineers by providing specific guidance on technical issues and business situations as they occur.
 
-<img src="images/group-1825503_640.jpg" />
+<img src="images/help-2444110_640 (2).png" height = "300" width = "500" />
 
 Mentorship starts with realizing that your experience and knowledge are of tremendous value to other people and you do not need to wait for someone to ask specifically for your help before you offer your support.
 
