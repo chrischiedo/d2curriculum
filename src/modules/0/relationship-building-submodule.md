@@ -13,7 +13,7 @@ Click on the image below to watch the video on "how to build trust and relations
 
 <br />
 
-**Here are ways to build relationships within your team::**
+**Here are ways to build relationships within your team:**
 
 A. **When meeting a new person for the first time,** 
 - proactively engage them and seek to connect with them	
