@@ -3,7 +3,7 @@ This is the ability to understand the scope of assigned work, derive the level o
 
 A mid-level developer should be able to agree to reasonable, realistic timelines for work requested, proactively alert stakeholders when expectations will not be met and provides updates on progress in appropriate intervals.
 
-<img src="images/possible-2499888_640" />
+<img src="images/possible-2499888_640.png" />
 
 It also involves presenting relevant stakeholders alternatives for requests that cannot realistically be met, along with clear pros and cons of each option and a recommendation for which option to pursue.
 
