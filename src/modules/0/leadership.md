@@ -15,7 +15,7 @@ Leadership involves demonstrating basic leadership skills such as self-awareness
                        
 |                          |
 | ------------------------ |
-| * [Relationship Building] (..src/modules/0/relationship-building submodule.md)  |
+| * [Relationship Building](..0/relationship-building-submodule.md)  |
 | * Leadership             |
 | * Mentorship             |
 
