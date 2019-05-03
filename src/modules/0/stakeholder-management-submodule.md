@@ -30,3 +30,16 @@ Click on the image below to watch the video on "how to engage and manage stakeho
 
 
 <br />
+
+-------
+
+Study Resources
+----------------
+
+
+| Topic   |  Web Link      |
+|:---------|:----------|
+| * Stakeholder Management|https://opentextbc.ca/projectmanagement/chapter/chapter-5-project-stakeholders-project-management/|
+| * How to define stakeholders for your software development project|https://conceptainc.com/blog/how-to-define-stakeholders-for-your-software-development-project/|
+| * Are You Making These 8 Stakeholder Mistakes?|https://projectriskcoach.com/stakeholder-mistakes/|
+| * Ways to keep project stakeholders informed|https://www.brighthubpm.com/monitoring-projects/52884-keeping-project-stakeholders-in-the-loop/|
