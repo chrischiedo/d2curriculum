@@ -11,8 +11,9 @@
     "content":[
       {
         "name": "Leadership",
-        "title": "Command Line Basics",
-        "link": "src/modules/0/leadership.md"
+        "title": "Leadership",
+        "link": "content/0/leadership"
+        "source": "andela"
       },
       ]
   },
