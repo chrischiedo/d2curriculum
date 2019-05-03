@@ -125,6 +125,7 @@
     "objectives": [
       "Understanding of the MVC architecture",
       "Understanding of how to design APIs using Rails",
+      "Understanding of how Rails Templating Engines work",
       "Understand of Ruby Active Record and ORMs",
       "Understanding of how TDD is done in Rails",
       "Understanding of Web Performance Optimization",
