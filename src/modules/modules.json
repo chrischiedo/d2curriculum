@@ -2,24 +2,20 @@
 
   {
     "name": "Team and Professional Skills",
-    "overview": "Version control is a way of keeping track of changes to files over time so that you can recall previous versions when needed and also easily work with other teammates collaboratively",
+    "overview": "At Andela, team and professional skills prepare our engineers to thrive in a distributed software development team and our EPIC values enable them integrate into a remote work culture. We know that proactive communication is a great skill that enables us to succeed in a distributed team. Consequently, we ask questions, request and give feedback, strive to write professionally, speak to be understood clearly, manage expectations well and build relationships within the team. We adapt quickly to changes and endeavour to understand our organization’s functional focus areas and how different departments interface with one another.
+",
     "objectives": [
-      "Understand basic terminal commands",
-      "Explain what version control is and why it’s important",
-      "Differentiate between different version control systems",
-      "Use common git commands e.g. git init, status, add, commit, push, pull"
+      "To thrive in a distributed software development team",
+      "To integrate into a remote work culture",
       ],
     "content":[
       {
-        "name": "command-line",
-        "title": "Command Line Basics",
-        "link": "content/0/command-line"
+        "name": "Leadership",
+        "title": "Leadership",
+        "link": "content/0/leadership"
+        "source": "andela"
       },
-      {
-        "name": "version-control",
-        "title": "Version control with Git",
-        "link": "content/0/version-control"
-      }]
+      ]
   },
 
   {
