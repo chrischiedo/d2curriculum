@@ -9,7 +9,7 @@ Click on the image below to watch the video on "how to engage and manage stakeho
 
 [![Stakeholder Management](http://img.youtube.com/vi/1_U6JUxIEnc/0.jpg)](http://www.youtube.com/watch?v=1_U6JUxIEnc "Stakeholder Management")
 
-<br />
+------
 
 **Here are ways to manage your stakeholders:**
 
