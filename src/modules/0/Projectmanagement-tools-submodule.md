@@ -4,7 +4,7 @@ Project Management tools are software tools applied in the management of a proje
 
 <img src="images/project.jpg" />
 
-<br />
+-----
 
 **Here are some popular software tools used for managing projects. Click to read up on their best practices:**
 
