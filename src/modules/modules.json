@@ -219,14 +219,10 @@
     "content":[
 
       {
-        "name": "project-management",
-        "title": "Pivotal Tracker",
-        "link": "https://www.pivotaltracker.com/help/articles/quick_start/"
-      },
-      {
-        "name": "agile-methodology",
-        "title": "Introduction to Agile Methodology",
-        "link": "https://www.codeproject.com/Articles/704600/An-introduction-to-Agile-Methodology/"
+        "name": "capstone-project",
+        "title": "Rails Capstone Project",
+        "link": "content/4/capstone-project",
+        "source": "andela"
       }
 
      ]
