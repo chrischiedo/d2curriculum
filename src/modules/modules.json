@@ -1,21 +1,53 @@
 [
-{
-    "name": "Team and Professional Skills",
-    "overview": "At Andela, team and professional skills prepare our engineers to thrive in a distributed software development team and our EPIC values enable them integrate into a remote work culture. We know that proactive communication is a great skill that enables us to succeed in a distributed team. Consequently, we ask questions, request and give feedback, strive to write professionally, speak to be understood clearly, manage expectations well and build relationships within the team. We adapt quickly to changes and endeavour to understand our organization’s functional focus areas and how different departments interface with one another.
-",
-    "objectives": [
-      "To thrive in a distributed software development team",
-      "To integrate into a remote work culture",
-      ],
-    "content":[
-      {
+  {
+      "name": "Team and Professional Skills",
+      "overview": "At Andela, our values can be sumarized as EPIC - Excellence, Passion, Integrity, and Collaboration. This module covers the fundamental principles of being EPIC. ",
+      "objectives": ["The Andela principles behind Excellence, Passion, Integrity and Collaboration"],
+      "content":[
+        {
         "name": "Leadership",
         "title": "Leadership",
-        "link": "content/0/leadership"
-      },
+        "link":"content/0/Leadership",
+        "source":"andela"
+        },
+        {
+        "name": "passion",
+        "title": "Passion",
+        "link": "content/0/passion",
+        "source":"andela"
+       },
+        {
+        "name": "integrity",
+        "title": "Integrity",
+        "link": "content/0/integrity",
+        "source":"andela"
+       },
+        {
+        "name": "collaboration",
+        "title": "Collaboration",
+        "link": "content/0/collaboration",
+        "source":"andela"
+       },
+        {
+        "name": "growth-mindset",
+        "title": "Growth Mindset",
+        "link": "content/0/growth-mindset",
+        "source":"andela"
+       },
+        {
+        "name": "relationship-building",
+        "title": "Relationship Building",
+        "link": "content/0/relationship-building",
+        "source":"andela"
+       },
+        {
+        "name": "Adaptability",
+        "title": "Adaptablity",
+        "link": "content/0/Adaptability",
+        "source":"andela"
+       }
       ]
-  },
-  
+    },
 
   {
     "name": "Stack-Agnostic Technical Skills",
