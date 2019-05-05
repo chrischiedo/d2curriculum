@@ -5,47 +5,65 @@
       "objectives": ["The Andela principles behind Excellence, Passion, Integrity and Collaboration"],
       "content":[
         {
-        "name": "Leadership",
-        "title": "Leadership",
-        "link":"content/0/Leadership",
+        "name": "epic-values",
+        "title": "Andela EPIC Values",
+        "link":"content/0/epic-values",
         "source":"andela"
         },
         {
-        "name": "passion",
-        "title": "Passion",
-        "link": "content/0/passion",
+        "name": "distributed-engineering",
+        "title": "Introduction to Distributed Engineering",
+        "link": "content/0/distributed-engineering",
         "source":"andela"
        },
         {
-        "name": "integrity",
-        "title": "Integrity",
-        "link": "content/0/integrity",
+        "name": "organization-awareness",
+        "title": "Organizational Functional Awareness",
+        "link": "content/0/organization-awareness",
         "source":"andela"
        },
         {
-        "name": "collaboration",
-        "title": "Collaboration",
-        "link": "content/0/collaboration",
+        "name": "proactive-communication",
+        "title": "Proactive Communication",
+        "link": "content/0/proactive-communication",
         "source":"andela"
        },
         {
-        "name": "growth-mindset",
-        "title": "Growth Mindset",
-        "link": "content/0/growth-mindset",
+        "name": "stakeholder-management",
+        "title": "Stakeholder and Expectations Management",
+        "link": "content/0/stakeholder-management",
         "source":"andela"
        },
         {
-        "name": "relationship-building",
-        "title": "Relationship Building",
-        "link": "content/0/relationship-building",
+        "name": "adaptability",
+        "title": "Adaptability",
+        "link": "content/0/adaptability",
         "source":"andela"
        },
         {
-        "name": "Adaptability",
-        "title": "Adaptablity",
-        "link": "content/0/Adaptability",
+        "name": "feedback",
+        "title": "Seeking Feedback",
+        "link": "content/0/feedback",
         "source":"andela"
-       }
+      },
+      {
+      "name": "leadership",
+      "title": "Leadership",
+      "link": "content/0/leadership",
+      "source":"andela"
+      },
+      {
+      "name": "estimation",
+      "title": "Agile Estimation and Time Management",
+      "link": "content/0/estimation",
+      "source":"andela"
+      },
+      {
+      "name": "project-management",
+      "title": "Project Management Tools",
+      "link": "content/0/project-management",
+      "source":"andela"
+      }
       ]
     },
 
