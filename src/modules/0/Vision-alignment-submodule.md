@@ -29,7 +29,7 @@ When you understand the vision of the teams and organizations you work with, you
 <br />
 Holistic Thinking is the ability to understand the big picture of how your work impacts the partner team, the application they are working on, and the end user of the product. This can be done by incorporating your understanding in asking questions to better flesh out features and ensure that the changes the partner team make address all these factors, rather than strictly implementing a request as specified.
 
-<img src="images/vision-3233648_640.jpg" />
+<img src="images/security-3014154_640.jpg" />
 
 **When you think holistically and observe the big picture of concepts, you are able to:**
 - Identify and contribute insights that add value to others
