@@ -1,3 +1,5 @@
+# **Seeking Feedback**
+
 ## **Overview**
 
 At Andela, we know that our sum is greater than our parts, which is why collaboration is one of our core values. Collaboration can be implemented by seeking feedback and implementing the feedback received. 
