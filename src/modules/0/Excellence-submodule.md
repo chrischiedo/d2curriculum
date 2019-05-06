@@ -56,28 +56,28 @@ G. **When you experience fear of failure,**
 
 **What do you need to believe to achieve excellence?**
 
-- You are internally motivated.
-- You advance through merit alone.
-- You earn trust and respect by radiating excellence.
-- If you can dream it then you can live it.
-- Nothing is impossible.
-- You are accountable for the results of your actions.
-- When the world says “it is impossible,” you make it possible.
-- You solve your own problems to the benefit of others.
-- You will learn something new everyday.
-- Excellent mentality will start producing excellent thoughts, excellent thoughts produce excellent actions such as:
+a. You are internally motivated.
+b. You advance through merit alone.
+c. You earn trust and respect by radiating excellence.
+d. If you can dream it then you can live it.
+e. Nothing is impossible.
+f. You are accountable for the results of your actions.
+g. When the world says “it is impossible,” you make it possible.
+h. You solve your own problems to the benefit of others.
+i. You will learn something new everyday.
+j. Excellent mentality will start producing excellent thoughts, excellent thoughts produce excellent actions such as:
 <br />
-a. Taking initiative <br />
-b. Having a broad vision <br />
-c. Finishing what you start <br />
-d. Doing more than what is asked of you <br />
-e. Striving to improve and be well informed <br />
-f. Making intentional use of every moment of your time <br />
-g. Planning before acting <br />
-h. Managing and resolving conflict <br />
-i. Respecting others <br />
-j. Using the best available resources <br />
-k. Knowing how to express yourself clearly, in writing or verbally <br />
+- Taking initiative <br />
+- Having a broad vision <br />
+- Finishing what you start <br />
+- Doing more than what is asked of you <br />
+- Striving to improve and be well informed <br />
+- Making intentional use of every moment of your time <br />
+- Planning before acting <br />
+- Managing and resolving conflict <br />
+- Respecting others <br />
+- Using the best available resources <br />
+- Knowing how to express yourself clearly, in writing or verbally <br />
 
 
 
