@@ -57,6 +57,7 @@ Remote team culture is the way diverse members of a distributed team work togeth
 Here are best practices for proper integration into your partner team’s work culture:
 
 <img src="images/Integration-into-Partner-Work.png" />
+
 ###### [source 1](https://toggl.com/out-of-office-remote-company-culture/) 
 
 <br />
