@@ -60,8 +60,7 @@ Study Resources
 
 | Topic   |  Web Link      |
 |:---------|:----------|
-| * 5 ways to remember every colleague’s or teammate’s name|https://medium.com/@YamenOsaretin/5-ways-to-remember-every-colleagues-or-teammate-s-name-1d2ea9dc5fe4|
-| * Building great work relationships|https://www.mindtools.com/pages/article/good-relationships.htm|
-| * How to develop effective work relationships|https://www.thebalancecareers.com/developing-effective-work-relationships-1919386|
+| * Aligning to the Vision and Mission of Your Organization|https://cyfar.org/aligning-vision-and-mission-your-organization|
+
 
 
