@@ -9,7 +9,7 @@ With this life approach, you believe you can change the world and you act accord
 
 -----
 
-**What do you need to know?**
+**What do you need to know about Passion?**
 
 | What you need to know   | 
 |:---------|
