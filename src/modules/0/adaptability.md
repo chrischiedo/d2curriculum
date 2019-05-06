@@ -4,11 +4,11 @@
 
 Adaptability is the ability to respond well to changes within your work environment, embrace change, celebrate differences, not take things personally, and get encouraged/invigorated by challenges/change. It also involves knowing when and how to push back on changes.
 
-<br />
+&nbsp;
 
 This module covers how you can embrace change most effectively when you look at the change objectively
 
-<br />
+&nbsp;
 
 
 ## **Learning Outcomes**
@@ -18,7 +18,7 @@ This module covers how you can embrace change most effectively when you look at 
 
 
 
-<br />
+&nbsp;
 
 ## **Sub Modules**
                        
@@ -27,26 +27,26 @@ This module covers how you can embrace change most effectively when you look at 
 | * [Adaptability](..0/Adaptability-submodule.md)  |
 
 
-<br />
+&nbsp;
 
 ## **Knowledge Check**
 1. Reflect on how you responded to a change that was uncomfortable or unwelcome when you worked with a team in the past. What do you think should have been applied differently?
 <br />
 
 2. How can you apply the knowledge gained in describing the following:
-<br />
+&nbsp;
 - How to respond positively to unfamiliar or uncomfortable differences in colleagues or work environments
-<br />
+&nbsp;
 - When and how to push back on changes
-<br />
+&nbsp;
 - Methods for identifying areas for improvement in work environment	 Methods for initiating change in work environment
-<br />
+&nbsp;
 - Methods for identifying personal areas of improvement
-<br />
+&nbsp;
 - What you need to be meaningfully challenged at Andela
-<br />
+&nbsp;
 - The difference between beneficial change and change for change's sake
-<br />
+&nbsp;
 
 
 
