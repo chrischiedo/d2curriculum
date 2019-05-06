@@ -1,29 +1,19 @@
-Aspiring Andelans value receiving feedback and are able to apply feedback they receive to improve on their performance.
+## **Overview**
 
-| What do I need to know?|Resource|
-|:-------------|:-------------|
-| I can describe the following from memory: |- [Seeks feedback](https://vimeo.com/216662854)|
-| * Importance and benefits of seeking feedback | |
-| * Approaches for constructively and effectively receiving feedback | |
+A templating engine allows one to embed Ruby code into HTML. This usually helps with generating HTML pages dynamically using data from a database. This module describes the common templating engines for Ruby on Rails development.
 
+## **Learning Outcomes**
+### **At the end of this module, the learner should be able to:**
+1. Understand how templating engines work under the hood.
+2. Use either the ERB or Haml templating engine.
 
-----------
+## **Study Resources**
+| What should I know after going through this resource?   |      Resource Links      |
+|:-------------|:------------------|
+| * Have knowledge of the common Ruby Templating Engines|[Ruby Templating Engines](https://www.studytonight.com/data-structures/introduction-to-data-structures.php) |
+| * The Common Data Structures|[10 Common Data Structures Explained with Videos plus Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b) |
 
-### ** Demonstrating the ability to seek feedback**
-
-A. When receiving feedback
-- I acknowledge receipt of the feedback and the value of the same
-- I ensure I stay positive while also seeing the possible value of the feedback
-- I take note of the feedback and ensure to follow up with action plans
-- I take deliberate steps to act on the feedback received
-
-----------
-
-
-
-### **What do I need to believe about databases:?**
-1. To reach my potential I must relentlessly seek and act on feedback
-2.  Other people’s perspectives matter and add value to my life and work
-3. There are valuable truths that I can only understand through feedback
-4. It is not enough to ask "What went wrong?" without also asking "What can I try next?"
-
+## **Knowledge Check**
+1. Attempt the following **Binary Search Tree** [exercise](https://exercism.io/tracks/ruby/exercises/binary-search-tree/solutions/1dc67570a4bf4902907efca16e43e69d) on *exercism.io*
+2. Attempt the following [Algorithm problem](https://www.hackerrank.com/challenges/non-divisible-subset/problem) on *HackerRank*.
+------------

@@ -1,31 +1,31 @@
-Aspiring Andelans are able to recognize and describe several important differences between quality (7Cs) writing and low-quality writing. Their writing consistently shows demonstration of 5 or more of the 7 Cs. The fellow is able to recognize the appropriate tone or style for specific mediums
+## **Overview**
 
-| What do I need to know?   |      Resource      |
+"*Algorithms + Data Structures = Programs*" ~ *Niklaus Wirth*.
+A deeper understanding of Data Structures and Algorithms is very crucial for any software engineer worth their salt. This module covers the fundamental concepts on Data Structures and Algorithms with the aim of making the learner knowledgeable in the most important aspects of computer science.
+
+## **Learning Outcomes**
+### **At the end of this module, the learner should be able to:**
+1. Understand how to design and implement the most common algorithms
+2. Understand the different types of the most common data structures
+3. Explain how the choice of a particular algorithm/data structure might affect the performance of their application
+
+## **Study Resources**
+| What should I know after going through this resource?   |      Resource Links      |
 |:-------------|:------------------|
-| * Principles of effective communication (7Cs) |[How to write like a pro](https://goinswriter.com/how-to-write-like-a-pro/) |
-| * How to use various writing platforms (e.g. Slack, email, blog, Google Docs) | [Tools to help write professionally](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj9p-uN47HZAhXqne0KHcBZBioYABAAGgJkZw&ohost=www.google.com.ng&cid=CAESQOD2Wk1i1O7vrrIpyDWpdFVXCDIB91fLDNZIclA_WDpIGhYfJEfS0gT6FZEi-EA-qMcoUP8Jqu26iWxFw4vX-DA&sig=AOD64_28_ZdaxDsbdBl__un8nFuo6awSWA&q=&ved=0ahUKEwiywOaN47HZAhULAcAKHW66DwwQ0QwIIw&adurl=) |
-| * Professional writing norms and standards | [16 easy ways to improve your writing](https://www.wordstream.com/blog/ws/2014/08/07/improve-writing-skills) |
-| * How to use feedback to improve writing |  |
+| * Common Data Structures and Algorithms|[Introduction to Data Structures and Algorithms](https://www.studytonight.com/data-structures/introduction-to-data-structures.php) |
+| * The Common Data Structures|[10 Common Data Structures Explained with Videos plus Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b) |
+| * The Top Data Structures|[Top Data Structures You Should Know](https://medium.freecodecamp.org/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3) |
+| * The 3 Basic Algorithms (Bubble-sort, Insertion-sort, Merge-sort)|[Algorithms for Beginners](https://medium.com/yay-its-erica/algorithms-for-beginners-bubble-sort-insertion-sort-merge-sort-29bd5506cc48) |
+| * The Big-O Algorithm Notation|[Big-O Algorithm Cheatsheet](http://bigocheatsheet.com/) |
+| * Algorithm Time Complexity|[Data Structures and Algorithms, Part 1](https://adrianmejia.com/blog/2018/04/04/how-you-can-change-the-world-learning-data-structures-algorithms-free-online-course-tutorial/) |
+| * The 8 Top Time Complexities|[Data Structures and Algorithms, Part 2](https://adrianmejia.com/blog/2018/04/05/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/) |
+| * Arrays, Hash Maps and Lists|[Data Structures and Algorithms, Part 3](https://adrianmejia.com/blog/2018/04/28/data-structures-time-complexity-for-beginners-arrays-hashmaps-linked-lists-stacks-queues-tutorial/) |
+| * Graphs as Data Structures|[Data Structures and Algorithms, Part 4](https://adrianmejia.com/blog/2018/05/14/data-structures-for-beginners-graphs-time-complexity-tutorial/) |
+| * Trees as Data Structures|[Data Structures and Algorithms, Part 5](https://adrianmejia.com/blog/2018/06/11/data-structures-for-beginners-trees-binary-search-tree-tutorial/) |
+| * Self-balanced Binary Trees|[Data Structures and Algorithms, Part 6](https://adrianmejia.com/blog/2018/07/16/self-balanced-binary-search-trees-with-avl-tree-data-structure-for-beginners/) |
+| * Recursive Algorithms|[Analysis of Recursive Algorithms](https://adrianmejia.com/blog/2018/04/24/analysis-of-recursive-algorithms/) |
 
-
-----------
-
-
-### ** Demonstrating ability to write professionally **
-A. When writing a message or a blog post
-- I double check with Grammarly and/or my colleagues to ensure there are no grammatical errors before sending the message
-
-B. When using chat technologies
-- I ensure my grammar is correct regardless of whether the conversation is formal or not
-
-C. When writing a message or a blog post
-- I check it for compliance with the 7Cs
-
-D. When writing a message or a blog post
-- I ensure I get and integrate feedback on how I can make my message more clear and complete
-
-----------
-
-### **What do I need to believe about writing professionally:?**
-1. I will be judged based on the quality of my writing
-2. The written word is the bridge between my brilliance and the rest of the world
+## **Knowledge Check**
+1. Attempt the following **Binary Search Tree** [exercise](https://exercism.io/tracks/ruby/exercises/binary-search-tree/solutions/1dc67570a4bf4902907efca16e43e69d) on *exercism.io*
+2. Attempt the following [Algorithm problem](https://www.hackerrank.com/challenges/non-divisible-subset/problem) on *HackerRank*.
+------------
