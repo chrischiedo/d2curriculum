@@ -1,3 +1,5 @@
+# **Proactive Communication**
+
 ## **Overview**
 
 **While working in a software team, you come across something in the codebase that isn’t linked to your task but can be improved. What do you do?**
