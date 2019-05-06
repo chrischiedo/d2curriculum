@@ -5,15 +5,15 @@
       "objectives": ["The Andela principles behind Excellence, Passion, Integrity and Collaboration"],
       "content":[
         {
-        "name": "epic-values",
+        "name": "EPIC-values",
         "title": "Andela EPIC Values",
-        "link":"content/0/epic-values",
+        "link":"content/0/EPIC-values",
         "source":"andela"
         },
         {
-        "name": "distributed-engineering",
+        "name": "Distributed-engineering",
         "title": "Introduction to Distributed Engineering",
-        "link": "content/0/distributed-engineering",
+        "link": "content/0/Distributed-engineering",
         "source":"andela"
        },
         {
@@ -23,9 +23,9 @@
         "source":"andela"
        },
         {
-        "name": "proactive-communication",
+        "name": "Proactive-communication",
         "title": "Proactive Communication",
-        "link": "content/0/proactive-communication",
+        "link": "content/0/Proactive-communication",
         "source":"andela"
        },
         {
@@ -35,9 +35,9 @@
         "source":"andela"
        },
         {
-        "name": "adaptability",
+        "name": "Adaptability",
         "title": "Adaptability",
-        "link": "content/0/adaptability",
+        "link": "content/0/Adaptability",
         "source":"andela"
        },
         {
@@ -47,15 +47,15 @@
         "source":"andela"
       },
       {
-      "name": "leadership",
+      "name": "Leadership",
       "title": "Leadership",
-      "link": "content/0/leadership",
+      "link": "content/0/Leadership",
       "source":"andela"
       },
       {
-      "name": "estimation",
+      "name": "Estimation",
       "title": "Agile Estimation and Time Management",
-      "link": "content/0/estimation",
+      "link": "content/0/Estimation",
       "source":"andela"
       },
       {
