@@ -29,8 +29,8 @@ Here are the do’s and don’ts of remote communication in a distributed team:
 <img src="images/Do's-and-Dont's-of-remote-communication.png" />
 
 ###### [source 1](https://blog.aha.io/remote-team-instant-message/) 
-<br />
 ###### [source 2](https://www.collaborationsuperpowers.com/86-the-top-3-dos-and-donts-of-remote-working/) 
+
 -----
 
 **Remote Collaboration Best Practices in a Distributed Engineering Team**
@@ -43,8 +43,8 @@ Here are best practices for remote collaboration in a distributed engineering te
 <img src="images/Best-practices-for-remote-collaboration.png" />
 
 ###### [source 1](https://hiring.monster.ca/hr/hr-best-practices/workforce-management/global-hr-management/best-practices-for-remote-collaboration.aspx) 
-<br />
-###### [source 2](https://medium.com/swlh/how-to-collaborate-effectively-with-remote-colleagues-a5ef2b356fd1)
+###### [source 2](https://medium.com/swlh/how-to-collaborate-effectively-with-remote-colleagues-a5ef2b356fd1) 
+
 
 <br />
 
@@ -57,7 +57,7 @@ Remote team culture is the way diverse members of a distributed team work togeth
 Here are best practices for proper integration into your partner team’s work culture:
 
 <img src="images/Integration-into-Partner-Work.png" />
-###### [source 1](https://toggl.com/out-of-office-remote-company-culture/)
+###### [source 1](https://toggl.com/out-of-office-remote-company-culture/) 
 
 <br />
 
