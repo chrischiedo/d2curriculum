@@ -1,4 +1,4 @@
-# ALCPathway
-Andela's ALC Curriculum
+# Andela Software Engineer Pathway
+Andela's D2 Curriculum
 
-Go to https://github.andela.com/alcpathway/ to view the ALC Level-Up Curriculum
+Go to https://github.andela.com/d2pathway/ to view the ALC Level-Up Curriculum
