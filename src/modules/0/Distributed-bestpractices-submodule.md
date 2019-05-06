@@ -9,7 +9,7 @@ At Andela, the software development team you will be working with is called your
 
 A remote team is quite different from a distributed team. Didn’t know that? Well let’s have a look at the difference.
 
-<img src="remote-time-clock.png" />
+<img src="images/remote-time-clock.png" />
 
 A remote team has no physical onsite office and team members are dispersed across the globe and can work from any location such as home offices or cafes.
 <br />
@@ -26,7 +26,7 @@ Distributed teams must have good communication strategies, technology, tools and
 
 Here are the do’s and don’ts of remote communication in a distributed team:
 
-<img src="Do's-and-Dont's-of-remote-communication.png" />
+<img src="images/Do's-and-Dont's-of-remote-communication.png" />
 
 -----
 
@@ -37,7 +37,7 @@ Effective remote collaboration occurs when the distributed team is able to produ
 
 Here are best practices for remote collaboration in a distributed engineering team:
 
-<img src="Best-practices-for-remote-collaboration.png" />
+<img src="images/Best-practices-for-remote-collaboration.png" />
 
 <br />
 
@@ -49,7 +49,7 @@ Remote team culture is the way diverse members of a distributed team work togeth
 
 Here are best practices for proper integration into your partner team’s work culture:
 
-<img src="Integration-into-Partner-Work.png" />
+<img src="images/Integration-into-Partner-Work.png" />
 
 <br />
 
