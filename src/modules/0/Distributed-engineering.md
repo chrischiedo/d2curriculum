@@ -1,4 +1,6 @@
-## **Introduction to Distributed Engineering**
+# **Introduction to Distributed Engineering**
+
+## **Overview**
 
 Over 40% of the world’s working population will be mobile or work remotely by 2022 according to the Global Mobile Workforce Forecast Update.
 <br />
