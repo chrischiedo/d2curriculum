@@ -9,7 +9,7 @@ Organizational Functional Awareness is the ability to understand the core purpos
 
 </br>
 
-<img src="images/group-1825503_640.jpg" />
+<img src="images/Organizational-structure.png" />
 
 
 You make more valuable decisions and contributions when you are highly aware of the goals and functions of your organization and its departments.
