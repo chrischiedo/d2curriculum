@@ -5,7 +5,7 @@ With this life approach, you live in accordance with your values. You know that 
 
 -----
 
-**What do you need to know about integrity?**
+**What do you need to know about Integrity?**
 
 | What you need to know  | 
 |:---------|
