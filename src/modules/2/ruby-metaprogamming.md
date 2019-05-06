@@ -1,12 +1,16 @@
-Aspiring Andelans know what tests are, how to write them, and how the TDD approach can be beneficial in development.
+## **Overview**
 
+Metaprogramming is used everywhere in Ruby and therefore a software developer is expected to understand this important concept and how to apply it in their code. This module introduces this crucial programming concept, and why it matters when it comes to Ruby.
 
-| What should I know by the end of this skill?   |      Resources      |
+## **Learning Outcomes**
+### **At the end of this module, the learner should be able to:**
+1. Understand how use of metaclasses in Ruby and why they are useful.
+2. Understand how to design/implement a Domain-Specific Language (DSL).
+
+## **Study Resources**
+| What should I know after going through this resource?   |      Resource Links      |
 |:-------------|:------------------|
-| * Integration Tests and Mocking (Video)|https://vimeo.com/222841047|
-| * Getting Started With TDD in Javascript| https://medium.com/@bethqiang/the-absolute-beginners-guide-to-test-driven-development-with-a-practical-example-c39e73a11631 |
-| * Introduction to practical TDD|https://vimeo.com/222848869|
-| * Practical setup |https://vimeo.com/222841202|
-| * Practical failing tests| https://vimeo.com/222841262 |
-| * Practical Tests Passing |https://vimeo.com/222841048 |
-| * Getting TDD right | https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale |
+| * Understand Ruby metaprogramming|[Ruby Metaprogramming](https://github.com/geetarista/ruby-metaprogramming) |
+| * Understand advanced concepts of Ruby metaprogramming|[Advanced Metaprogramming in Ruby](https://gist.github.com/Integralist/a29212a8eb10bc8154b7) |
+| * How to Apply Ruby Meta Programming|[Ruby Metaprogramming Tutorial](https://www.toptal.com/ruby/ruby-metaprogramming-cooler-than-it-sounds) |
+------------

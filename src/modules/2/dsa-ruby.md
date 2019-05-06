@@ -1,35 +1,20 @@
-Aspiring Andelans know what tests are, how to write them, and how the TDD approach can be beneficial in development. They also understand the basics of debugging, including how to replicate a problem and gradually break down the process into simpler components to isolate the root cause of the defect.
+## **Overview**
 
+Data Structures and Algorithms are some of the most fundamental concepts that any software engineer worth their salt should have a deep understanding of. This module covers the most important concepts on Data Structures and Algorithms that every software developer should be familiar with.
 
-| What should I know by the end of this skill?   |      Resources      |
+## **Learning Outcomes**
+### **At the end of this module, the learner should be able to:**
+1. Understand how to design and implement the most common algorithms in Ruby.
+2. Understand the most common data structures used in Ruby.
+3. Explain how the choice of a particular algorithm/data structure might affect the performance of their application.
+
+## **Study Resources**
+| What should I know after going through this resource?   |      Resource Links      |
 |:-------------|:------------------|
-| * Definition of Test Driven Development| https://www.agilealliance.org/glossary/tdd/#q=~ |
-| * Pros and Cons of using the TDD approach to developing applications|https://vimeo.com/222841137|
-| * Steps involved in the TDD process | http://agiledata.org/essays/tdd.html |
+| * Understand the Common Data Structures and Algorithms|[Common Data Structures and Algorithms](https://www.theodinproject.com/courses/ruby-programming/lessons/common-data-structures-and-algorithms) |
+| * Understand the Common Ruby Data Structures|[Ruby Data Structures](https://medium.com/the-renaissance-developer/ruby-101-data-structures-7705d82ec1) |
+| * Understand how to implement Algorithms in Ruby|[Introduction to Algorithms with Ruby](https://thomasroest.com/2016/12/12/introduction-to-algorithms-with-ruby.html) |
 
-
-
-----------
-
-### ** Demonstrating Skill **
-A. **  When I am creating new functionality **
-- I define my test before I write my code
-
-B. **  When building out any application using the TDD approach  **
-- I write tests, let them fail, before adding in code to make the tests pass
-
-C. **  When building an application **
-- I strive for 100% test coverage
-
-D. **  When writing test cases **
-- I identify all the possible edge cases and write tests for each of these cases
-
-
-----------
-
-### ** What do I need to believe about test driven development:? **
-1. TDD can help me attain 100% test coverage
-2. Writing tests reduces the risk of my program malfunctioning in the future
-3. Writing tests help me better define the specifications of an application I am building
-4. My application will be more stable if I have solid test coverage
-5. Following TDD practice will make me a better programmer
+## **Knowledge Check**
+1. Attempt the following **Data Structures and Algorithms** [projects](https://www.theodinproject.com/courses/ruby-programming/lessons/data-structures-and-algorithms).
+------------

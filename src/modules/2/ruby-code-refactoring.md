@@ -1,9 +1,15 @@
-Aspiring Andelan understands the basics of debugging, including how to replicate the problem and gradually break down the process into simpler components to isolate the root cause of the defect.
+## **Overview**
 
+Code refactoring is the subtle art of tweaking existing code with the aim of achieving certain goals, like optimizing for performance or making code more readable and/or maintainable. This module highlights the importance of refactoring code.
 
-| What should I know by the end of this skill?   |      Resources      |
+## **Learning Outcomes**
+### **At the end of this module, the learner should be able to:**
+1. Refactor Ruby code to make it better and more efficient.
+2. Apply different code refactoring methods.
+
+## **Study Resources**
+| What should I know after going through this resource?   |      Resource Links      |
 |:-------------|:------------------|
-| * Debugging in Javascript|https://www.w3schools.com/js/js_debugging.asp|
-| * Getting Started With TDD in Javascript| https://medium.com/@bethqiang/the-absolute-beginners-guide-to-test-driven-development-with-a-practical-example-c39e73a11631 |
-| * Debugging javascript with chrome dev tools| https://developers.google.com/web/tools/chrome-devtools/javascript/ |
-| * Debugging javascript with mozilla dev tools |https://developer.mozilla.org/en-US/docs/Tools/Debugger|
+| * How to refactor 'fat' Ruby models|[Refactoring Fat Ruby Models](https://github.com/codeclimate/refactoring-fat-models) |
+| * How to refactor 'fat' Ruby code|[Fat Code Refactoring Techniques](https://github.com/shakacode/fat-code-refactoring-techniques) |
+------------
