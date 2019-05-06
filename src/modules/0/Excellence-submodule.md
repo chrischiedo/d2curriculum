@@ -9,7 +9,7 @@ With this life approach, you aspire to be the best possible version of yourself.
 
 -----
 
-**What do you need to know?**
+**What do you need to know about Excellence?**
 
 | What you need to know   | 
 |:---------|
