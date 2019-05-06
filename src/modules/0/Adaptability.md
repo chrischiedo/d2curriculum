@@ -1,3 +1,5 @@
+# **Adaptability**
+
 ## **Overview**
 
 Adaptability is the ability to respond well to changes within your work environment, embrace change, celebrate differences, not take things personally, and get encouraged/invigorated by challenges/change. It also involves knowing when and how to push back on changes.
