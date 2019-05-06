@@ -27,7 +27,9 @@ Distributed teams must have good communication strategies, technology, tools and
 Here are the do’s and don’ts of remote communication in a distributed team:
 
 <img src="images/Do's-and-Dont's-of-remote-communication.png" />
+
 [Ref1](https://blog.aha.io/remote-team-instant-message/) 
+<br />
 [Ref2](https://www.collaborationsuperpowers.com/86-the-top-3-dos-and-donts-of-remote-working/) 
 -----
 
