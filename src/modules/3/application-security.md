@@ -1,31 +1,21 @@
 ## **Overview**
 
-"*Algorithms + Data Structures = Programs*" ~ *Niklaus Wirth*.
-A deeper understanding of Data Structures and Algorithms is very crucial for any software engineer worth their salt. This module covers the fundamental concepts on Data Structures and Algorithms with the aim of making the learner knowledgeable in the most important aspects of computer science.
+It goes without saying that security threats are everywhere, and we need to secure our applications against malicious attacks. A developer should be able to understand the major web application security flaws that are commonly exploited by malicious actors, and you should be able to apply mitigation techniques when building every layer of the web application.
 
 ## **Learning Outcomes**
 ### **At the end of this module, the learner should be able to:**
-1. Understand how to design and implement the most common algorithms
-2. Understand the different types of the most common data structures
-3. Explain how the choice of a particular algorithm/data structure might affect the performance of their application
+1. Understand how to mitigate against security vulnerabilities like: Password cracking, URL manipulation through HTTP GET methods, SQL Injection and Cross Site Scripting (XSS).
+2. Demonstrate clear understand the concepts of session management, authentication and authorization.
 
 ## **Study Resources**
 | What should I know after going through this resource?   |      Resource Links      |
 |:-------------|:------------------|
-| * Common Data Structures and Algorithms|[Introduction to Data Structures and Algorithms](https://www.studytonight.com/data-structures/introduction-to-data-structures.php) |
-| * The Common Data Structures|[10 Common Data Structures Explained with Videos plus Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b) |
-| * The Top Data Structures|[Top Data Structures You Should Know](https://medium.freecodecamp.org/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3) |
-| * The 3 Basic Algorithms (Bubble-sort, Insertion-sort, Merge-sort)|[Algorithms for Beginners](https://medium.com/yay-its-erica/algorithms-for-beginners-bubble-sort-insertion-sort-merge-sort-29bd5506cc48) |
-| * The Big-O Algorithm Notation|[Big-O Algorithm Cheatsheet](http://bigocheatsheet.com/) |
-| * Algorithm Time Complexity|[Data Structures and Algorithms, Part 1](https://adrianmejia.com/blog/2018/04/04/how-you-can-change-the-world-learning-data-structures-algorithms-free-online-course-tutorial/) |
-| * The 8 Top Time Complexities|[Data Structures and Algorithms, Part 2](https://adrianmejia.com/blog/2018/04/05/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/) |
-| * Arrays, Hash Maps and Lists|[Data Structures and Algorithms, Part 3](https://adrianmejia.com/blog/2018/04/28/data-structures-time-complexity-for-beginners-arrays-hashmaps-linked-lists-stacks-queues-tutorial/) |
-| * Graphs as Data Structures|[Data Structures and Algorithms, Part 4](https://adrianmejia.com/blog/2018/05/14/data-structures-for-beginners-graphs-time-complexity-tutorial/) |
-| * Trees as Data Structures|[Data Structures and Algorithms, Part 5](https://adrianmejia.com/blog/2018/06/11/data-structures-for-beginners-trees-binary-search-tree-tutorial/) |
-| * Self-balanced Binary Trees|[Data Structures and Algorithms, Part 6](https://adrianmejia.com/blog/2018/07/16/self-balanced-binary-search-trees-with-avl-tree-data-structure-for-beginners/) |
-| * Recursive Algorithms|[Analysis of Recursive Algorithms](https://adrianmejia.com/blog/2018/04/24/analysis-of-recursive-algorithms/) |
+| * How to Test for Web Security|[Web Application Security Testing Guide](https://www.studytonight.com/data-structures/introduction-to-data-structures.php) |
+| * How to securing Rails Applications|[Securing Rails Applications](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b) |
+| * The Common Ruby Security Tools and Resources|[Ruby Security Tools and Resources](https://medium.freecodecamp.org/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3) |
+| * How to Build Secure Rails Web Applications|[Building Secure Rails Web Applications](https://medium.com/yay-its-erica/algorithms-for-beginners-bubble-sort-insertion-sort-merge-sort-29bd5506cc48) |
+| * Understand Sessions, Cookies and Authentication|[Sessions, Cookies and Authentication](http://bigocheatsheet.com/) |
 
 ## **Knowledge Check**
-1. Attempt the following **Binary Search Tree** [exercise](https://exercism.io/tracks/ruby/exercises/binary-search-tree/solutions/1dc67570a4bf4902907efca16e43e69d) on *exercism.io*
-2. Attempt the following [Algorithm problem](https://www.hackerrank.com/challenges/non-divisible-subset/problem) on *HackerRank*.
+1. Attempt the following **authentication** [project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/authentication)
 ------------

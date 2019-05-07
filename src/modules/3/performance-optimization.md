@@ -1,31 +1,16 @@
 ## **Overview**
 
-"*Algorithms + Data Structures = Programs*" ~ *Niklaus Wirth*.
-A deeper understanding of Data Structures and Algorithms is very crucial for any software engineer worth their salt. This module covers the fundamental concepts on Data Structures and Algorithms with the aim of making the learner knowledgeable in the most important aspects of computer science.
+The performance of an application is one of the most crucial aspects of application development. A developer should be able to use simple Rails performance tricks and tools, including profiling to optimize their applications. They should be able to measure the optimization effect, write and run optimization tests. They should also be able to tune up both the deployment infrastructure and the Ruby interpreter itself for optimal performance. This module covers the important concepts of performance optimization and why it's an important skill have as a developer.
 
 ## **Learning Outcomes**
 ### **At the end of this module, the learner should be able to:**
-1. Understand how to design and implement the most common algorithms
-2. Understand the different types of the most common data structures
-3. Explain how the choice of a particular algorithm/data structure might affect the performance of their application
+1. Fine-tune their web applications in order to get better performance results.
+2. Understand how code optimization works under the hood.
 
 ## **Study Resources**
 | What should I know after going through this resource?   |      Resource Links      |
 |:-------------|:------------------|
-| * Common Data Structures and Algorithms|[Introduction to Data Structures and Algorithms](https://www.studytonight.com/data-structures/introduction-to-data-structures.php) |
-| * The Common Data Structures|[10 Common Data Structures Explained with Videos plus Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b) |
-| * The Top Data Structures|[Top Data Structures You Should Know](https://medium.freecodecamp.org/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3) |
-| * The 3 Basic Algorithms (Bubble-sort, Insertion-sort, Merge-sort)|[Algorithms for Beginners](https://medium.com/yay-its-erica/algorithms-for-beginners-bubble-sort-insertion-sort-merge-sort-29bd5506cc48) |
-| * The Big-O Algorithm Notation|[Big-O Algorithm Cheatsheet](http://bigocheatsheet.com/) |
-| * Algorithm Time Complexity|[Data Structures and Algorithms, Part 1](https://adrianmejia.com/blog/2018/04/04/how-you-can-change-the-world-learning-data-structures-algorithms-free-online-course-tutorial/) |
-| * The 8 Top Time Complexities|[Data Structures and Algorithms, Part 2](https://adrianmejia.com/blog/2018/04/05/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/) |
-| * Arrays, Hash Maps and Lists|[Data Structures and Algorithms, Part 3](https://adrianmejia.com/blog/2018/04/28/data-structures-time-complexity-for-beginners-arrays-hashmaps-linked-lists-stacks-queues-tutorial/) |
-| * Graphs as Data Structures|[Data Structures and Algorithms, Part 4](https://adrianmejia.com/blog/2018/05/14/data-structures-for-beginners-graphs-time-complexity-tutorial/) |
-| * Trees as Data Structures|[Data Structures and Algorithms, Part 5](https://adrianmejia.com/blog/2018/06/11/data-structures-for-beginners-trees-binary-search-tree-tutorial/) |
-| * Self-balanced Binary Trees|[Data Structures and Algorithms, Part 6](https://adrianmejia.com/blog/2018/07/16/self-balanced-binary-search-trees-with-avl-tree-data-structure-for-beginners/) |
-| * Recursive Algorithms|[Analysis of Recursive Algorithms](https://adrianmejia.com/blog/2018/04/24/analysis-of-recursive-algorithms/) |
-
-## **Knowledge Check**
-1. Attempt the following **Binary Search Tree** [exercise](https://exercism.io/tracks/ruby/exercises/binary-search-tree/solutions/1dc67570a4bf4902907efca16e43e69d) on *exercism.io*
-2. Attempt the following [Algorithm problem](https://www.hackerrank.com/challenges/non-divisible-subset/problem) on *HackerRank*.
+| * How to fine-tune Rails apps|[Rails Performance Tuning](https://www.airpair.com/ruby-on-rails/performance) |
+| * How to do performance testing for Rails applications|[Performance Testing Rails Applications](https://guides.rubyonrails.org/v3.2.13/performance_testing.html) |
+| * Understand Background Jobs|[Improving Rails Performance with Better Background Jobs](https://blog.codeship.com/improving-rails-performance-better-background-jobs/) |
 ------------
