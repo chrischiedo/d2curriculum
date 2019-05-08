@@ -21,10 +21,10 @@ This module covers how you can embrace change most effectively when you look at 
 &nbsp;
 
 ## **Sub Modules**
-                       
+
 |                          |
 | ------------------------ |
-| * [Adaptability](..0/Adaptability-submodule.md)  |
+| * [Adaptability](src/modules/0/Adaptability-submodule.md) |
 
 
 &nbsp;
