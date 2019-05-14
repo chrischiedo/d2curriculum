@@ -9,11 +9,9 @@
 *[proactive]: Make a clarification from a senior person on the team and give your opinion on what you think the improvement should be*
 
 
-<br />
 
 Proactive communication involves addressing potential problems in the team before they arise. This module covers how to proactively communicate within a distributed team.
 
-<br />
 
 
 ## **Learning Outcomes**
@@ -23,22 +21,17 @@ Proactive communication involves addressing potential problems in the team befor
 3. Carry out the best practices for remote communication within a distributed team
 
 
-<br />
 
 ## **Sub Modules**
-                       
+
 |                          |
 | ------------------------ |
 | * [Proactive Communication in a Distributed Team](..0/Proactive-communication-submodule.md)  |
 
 
-<br />
 
 ## **Knowledge Check**
 1. Reflect on what you should do when you are not sure about something, or the task requirements are complex.
-
-<br />
-
 2. Reflect on how you should proactive update your product owner on your daily tasks.
 
 

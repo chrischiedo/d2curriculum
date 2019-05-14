@@ -31,8 +31,7 @@ This module covers how you can embrace change most effectively when you look at 
 
 ## **Knowledge Check**
 1. Reflect on how you responded to a change that was uncomfortable or unwelcome when you worked with a team in the past. What do you think should have been applied differently?
-<br />
-
+&nbsp;
 2. How can you apply the knowledge gained in describing the following:
 &nbsp;
 - How to respond positively to unfamiliar or uncomfortable differences in colleagues or work environments
@@ -47,7 +46,4 @@ This module covers how you can embrace change most effectively when you look at 
 &nbsp;
 - The difference between beneficial change and change for change's sake
 &nbsp;
-
-
-
 ------------

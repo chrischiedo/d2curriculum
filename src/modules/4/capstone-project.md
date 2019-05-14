@@ -1,6 +1,6 @@
 ## **Overview**
 
-At Andela, we believe in the Learning-by-Doing philosophy. This capstone project gives you a chance to put into practice all the concepts gained by goong through this Curriculum.
+At Andela, we believe in the Learning-by-Doing philosophy. This capstone project gives you a chance to put into practice all the concepts gained by going through this Curriculum.
 
 ## **Learning Outcomes**
 ### **At the end of this module, the learner should be able to:**

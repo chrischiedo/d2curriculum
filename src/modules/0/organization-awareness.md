@@ -2,13 +2,11 @@
 
 ## **Overview**
 
-<i> “Software engineers can no longer rely solely on their technology expertise, but they also must have a keen understanding of the strategic impact of technology decisions on the business” </i>
+“*Software engineers can no longer rely solely on their technology expertise, but they also must have a keen understanding of the strategic impact of technology decisions on the business.*”
 
-<br />
 
 This means understanding the business as much as the technology is a great way to increase your value to the company you work for. This module covers how to map the solutions you build to the business goals/values.
 
-<br />
 
 
 ## **Learning Outcomes**
@@ -18,16 +16,14 @@ This means understanding the business as much as the technology is a great way t
 3. Build features holistically while considering other aspects of the system and the business goals
 
 
-<br />
 
 ## **Sub Modules**
-                       
+
 |                          |
 | ------------------------ |
 | * [Understanding the Business, Mission and Operating Structure of a team/company](..0/Understand-business-submodule.md)  |
 | * [Vision Alignment & Holistic Thinking](..0/Vision-alignment-Submodule.md)                        |
 
-<br />
 
 ## **Knowledge Check**
 1. Describe Andela’s business model and goals
