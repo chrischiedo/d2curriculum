@@ -24,7 +24,7 @@ This module covers how you can embrace change most effectively when you look at 
 
 |                          |
 | ------------------------ |
-| * [Adaptability](src/modules/0/Adaptability-submodule.md) |
+| * [Adaptability](src/submodules/0/adaptability-submodule.md) |
 
 
 &nbsp;
