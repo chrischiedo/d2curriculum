@@ -17,6 +17,24 @@
             "title": "Andela EPIC Values",
             "link": "content/0/epic-values--excellence",
             "source": "andela"
+          },
+          {
+            "name": "epic-values--passion",
+            "title": "Andela EPIC Values",
+            "link": "content/0/epic-values--passion",
+            "source": "andela"
+          },
+          {
+            "name": "epic-values--integrity",
+            "title": "Andela EPIC Values",
+            "link": "content/0/epic-values--integrity",
+            "source": "andela"
+          },
+          {
+            "name": "epic-values--collaboration",
+            "title": "Andela EPIC Values",
+            "link": "content/0/epic-values--collaboration",
+            "source": "andela"
           }
         ]
       },
@@ -24,55 +42,163 @@
         "name": "distributed-engineering",
         "title": "Introduction to Distributed Engineering",
         "link": "content/0/distributed-engineering",
-        "source": "andela"
+        "source": "andela",
+        "content": [
+          {
+            "name": "distributed-engineering--bestpractices",
+            "title": "Introduction to Distributed Engineering",
+            "link": "content/0/distributed-engineering--bestpractices",
+            "source": "andela"
+          },
+          {
+            "name": "distributed-engineering--agilemethodology",
+            "title": "Introduction to Distributed Engineering",
+            "link": "content/0/distributed-engineering--agilemethodology",
+            "source": "andela"
+          }
+        ]
       },
       {
         "name": "organization-awareness",
         "title": "Organizational Functional Awareness",
         "link": "content/0/organization-awareness",
-        "source": "andela"
+        "source": "andela",
+        "content": [
+          {
+            "name": "organization-awareness--business",
+            "title": "Organizational Functional Awareness",
+            "link": "content/0/organization-awareness--business",
+            "source": "andela"
+          },
+          {
+            "name": "organization-awareness--visionalignment",
+            "title": "Organizational Functional Awareness",
+            "link": "content/0/organization-awareness--visionalignment",
+            "source": "andela"
+          }
+        ]
       },
       {
         "name": "proactive-communication",
         "title": "Proactive Communication",
         "link": "content/0/proactive-communication",
-        "source": "andela"
+        "source": "andela",
+        "content": [
+          {
+            "name": "proactive-communication--submodule",
+            "title": "Proactive Communication",
+            "link": "content/0/proactive-communication--submodule",
+            "source": "andela"
+          }
+        ]
       },
       {
         "name": "stakeholder-management",
         "title": "Stakeholder and Expectations Management",
         "link": "content/0/stakeholder-management",
-        "source": "andela"
+        "source": "andela",
+        "content": [
+          {
+            "name": "stakeholder-management--submodule",
+            "title": "Stakeholder and Expectations Management",
+            "link": "content/0/stakeholder-management--submodule",
+            "source": "andela"
+          },
+          {
+            "name": "stakeholder-management--expectations",
+            "title": "Stakeholder and Expectations Management",
+            "link": "content/0/stakeholder-management--expectations",
+            "source": "andela"
+          }
+        ]
       },
       {
         "name": "adaptability",
         "title": "Adaptability",
         "link": "content/0/adaptability",
-        "source": "andela"
+        "source": "andela",
+        "content": [
+          {
+            "name": "adaptability--submodule",
+            "title": "Adaptability",
+            "link": "content/0/adaptability--submodule",
+            "source": "andela"
+          }
+        ]
       },
       {
         "name": "feedback",
         "title": "Seeking Feedback",
         "link": "content/0/feedback",
-        "source": "andela"
+        "source": "andela",
+        "content": [
+          {
+            "name": "feedback--seekingfeedback",
+            "title": "Seeking Feedback",
+            "link": "content/0/feedback--seekingfeedback",
+            "source": "andela"
+          }
+        ]
       },
       {
         "name": "leadership",
         "title": "Leadership",
         "link": "content/0/leadership",
-        "source": "andela"
+        "source": "andela",
+        "content": [
+          {
+            "name": "leadership--submodule",
+            "title": "Leadership",
+            "link": "content/0/leadership--submodule",
+            "source": "andela"
+          },
+          {
+            "name": "leadership--mentorship",
+            "title": "Leadership",
+            "link": "content/0/leadership--mentorship",
+            "source": "andela"
+          },
+          {
+            "name": "leadership--relationship",
+            "title": "Leadership",
+            "link": "content/0/leadership--relationship",
+            "source": "andela"
+          }
+        ]
       },
       {
         "name": "estimation",
         "title": "Agile Estimation and Time Management",
         "link": "content/0/estimation",
-        "source": "andela"
+        "source": "andela",
+        "content": [
+          {
+            "name": "agile--estimation",
+            "title": "Agile Estimation and Time Management",
+            "link": "content/0/agile--estimation",
+            "source": "andela"
+          },
+          {
+            "name": "time--management",
+            "title": "Agile Estimation and Time Management",
+            "link": "content/0/time--management",
+            "source": "andela"
+          }
+        ]
       },
       {
         "name": "project-management",
         "title": "Project Management Tools",
         "link": "content/0/project-management",
-        "source": "andela"
+        "source": "andela",
+        "content": [
+          {
+            "name": "project-management--tools",
+            "title": "Project Management Tools",
+            "link": "content/0/project-management--tools",
+            "source": "andela"
+          }
+        ]
       }
     ]
   },
