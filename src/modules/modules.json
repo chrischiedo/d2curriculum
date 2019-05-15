@@ -1,76 +1,85 @@
 [
   {
-      "name": "Team and Professional Skills",
-      "overview": "At Andela, our values can be sumarized as EPIC - Excellence, Passion, Integrity, and Collaboration. This module covers the fundamental principles of being EPIC. ",
-      "objectives": ["The Andela principles behind Excellence, Passion, Integrity and Collaboration"],
-      "content":[
-        {
+    "name": "Team and Professional Skills",
+    "overview": "At Andela, our values can be sumarized as EPIC - Excellence, Passion, Integrity, and Collaboration. This module covers the fundamental principles of being EPIC. ",
+    "objectives": [
+      "The Andela principles behind Excellence, Passion, Integrity and Collaboration"
+    ],
+    "content": [
+      {
         "name": "epic-values",
         "title": "Andela EPIC Values",
-        "link":"content/0/epic-values",
-        "source":"andela"
-        },
-        {
+        "link": "content/0/epic-values",
+        "source": "andela",
+        "content": [
+          {
+            "name": "epic-values--excellence",
+            "title": "Andela EPIC Values",
+            "link": "content/0/epic-values--excellence",
+            "source": "andela"
+          }
+        ]
+      },
+      {
         "name": "distributed-engineering",
         "title": "Introduction to Distributed Engineering",
         "link": "content/0/distributed-engineering",
-        "source":"andela"
-       },
-        {
+        "source": "andela"
+      },
+      {
         "name": "organization-awareness",
         "title": "Organizational Functional Awareness",
         "link": "content/0/organization-awareness",
-        "source":"andela"
-       },
-        {
+        "source": "andela"
+      },
+      {
         "name": "proactive-communication",
         "title": "Proactive Communication",
         "link": "content/0/proactive-communication",
-        "source":"andela"
-       },
-        {
+        "source": "andela"
+      },
+      {
         "name": "stakeholder-management",
         "title": "Stakeholder and Expectations Management",
         "link": "content/0/stakeholder-management",
-        "source":"andela"
-       },
-        {
+        "source": "andela"
+      },
+      {
         "name": "adaptability",
         "title": "Adaptability",
         "link": "content/0/adaptability",
-        "source":"andela"
-       },
-        {
+        "source": "andela"
+      },
+      {
         "name": "feedback",
         "title": "Seeking Feedback",
         "link": "content/0/feedback",
-        "source":"andela"
+        "source": "andela"
       },
       {
-      "name": "leadership",
-      "title": "Leadership",
-      "link": "content/0/leadership",
-      "source":"andela"
+        "name": "leadership",
+        "title": "Leadership",
+        "link": "content/0/leadership",
+        "source": "andela"
       },
       {
-      "name": "estimation",
-      "title": "Agile Estimation and Time Management",
-      "link": "content/0/estimation",
-      "source":"andela"
+        "name": "estimation",
+        "title": "Agile Estimation and Time Management",
+        "link": "content/0/estimation",
+        "source": "andela"
       },
       {
-      "name": "project-management",
-      "title": "Project Management Tools",
-      "link": "content/0/project-management",
-      "source":"andela"
+        "name": "project-management",
+        "title": "Project Management Tools",
+        "link": "content/0/project-management",
+        "source": "andela"
       }
-      ]
-    },
+    ]
+  },
 
   {
     "name": "Stack-Agnostic Technical Skills",
-    "overview":
-      "The technical skills covered under this section are those that cut across all language stacks. Understanding these skills well will set up for success in the subsequent sections.",
+    "overview": "The technical skills covered under this section are those that cut across all language stacks. Understanding these skills well will set up for success in the subsequent sections.",
     "objectives": [
       "Proper understanding of Data Structures and Algorithms",
       "Introduction to the Functional Programming paradigm",
@@ -132,45 +141,44 @@
       "How to apply OOP concepts in Ruby",
       "How to implement different Algorithms in Ruby",
       "Proper understanding of how Ruby Metaprogamming works"
-      ],
-    "content":[
+    ],
+    "content": [
       {
         "name": "idiomatic-ruby",
         "title": "Idiomatic Ruby",
         "link": "content/2/idiomatic-ruby",
         "source": "andela"
-    },
-    {
-      "name": "ruby-code-refactoring",
-      "title": "Ruby Code Refactoring",
-      "link": "content/2/ruby-code-refactoring",
-      "source": "andela"
-    },
-    {
-      "name": "oop-ruby",
-      "title": "Object-Oriented Design Concepts in Ruby",
-      "link": "content/2/oop-ruby",
-      "source": "andela"
-    },
-    {
-      "name": "dsa-ruby",
-      "title": "Data Structures and Algorithms in Ruby",
-      "link": "content/2/dsa-ruby",
-      "source": "andela"
-    },
-    {
-      "name": "ruby-metaprogamming",
-      "title": "Ruby Metaprogamming",
-      "link": "content/2/ruby-metaprogamming",
-      "source": "andela"
-    }
+      },
+      {
+        "name": "ruby-code-refactoring",
+        "title": "Ruby Code Refactoring",
+        "link": "content/2/ruby-code-refactoring",
+        "source": "andela"
+      },
+      {
+        "name": "oop-ruby",
+        "title": "Object-Oriented Design Concepts in Ruby",
+        "link": "content/2/oop-ruby",
+        "source": "andela"
+      },
+      {
+        "name": "dsa-ruby",
+        "title": "Data Structures and Algorithms in Ruby",
+        "link": "content/2/dsa-ruby",
+        "source": "andela"
+      },
+      {
+        "name": "ruby-metaprogamming",
+        "title": "Ruby Metaprogamming",
+        "link": "content/2/ruby-metaprogamming",
+        "source": "andela"
+      }
     ]
   },
 
   {
     "name": "Ruby on Rails Fundamentals",
-    "overview":
-      "Ruby on Rails (RoR) is a Ruby-based web application development framework. The framework is based on Model-View-Controller (MVC) architecture. This module covers the ins-and-outs of this popular web framework.",
+    "overview": "Ruby on Rails (RoR) is a Ruby-based web application development framework. The framework is based on Model-View-Controller (MVC) architecture. This module covers the ins-and-outs of this popular web framework.",
     "objectives": [
       "Understanding of the MVC architecture",
       "Understanding of how to design APIs using Rails",
@@ -181,49 +189,49 @@
       "Understanding of Web App Security"
     ],
     "content": [
-    {
-      "name": "rails-mvc-architecture",
-      "title": "Ruby on Rails MVC Architecture",
-      "link": "content/3/rails-mvc-architecture",
-      "source": "andela"
-    },
-    {
-      "name": "rails-api-design",
-      "title": "Ruby on Rails API Design",
-      "link": "content/3/rails-api-design",
-      "source": "andela"
-    },
-    {
-      "name": "rails-templating-engines",
-      "title": "Rails Templating Engines",
-      "link": "content/3/rails-templating-engines",
-      "source": "andela"
-    },
-    {
-      "name": "active-record-orm",
-      "title": "Active Record and ORMs",
-      "link": "content/3/active-record-orm",
-      "source": "andela"
-    },
-    {
-      "name": "tdd-rspec",
-      "title": "TDD using RSpec",
-      "link": "content/3/tdd-rspec",
-      "source": "andela"
-    },
-    {
-      "name": "performance-optimization",
-      "title": "Web Performance Optimization",
-      "link": "content/3/performance-optimization",
-      "source": "andela"
-    },
-    {
-      "name": "application-security",
-      "title": "Web Application Security",
-      "link": "content/3/application-security",
-      "source": "andela"
-    }
-  ]
+      {
+        "name": "rails-mvc-architecture",
+        "title": "Ruby on Rails MVC Architecture",
+        "link": "content/3/rails-mvc-architecture",
+        "source": "andela"
+      },
+      {
+        "name": "rails-api-design",
+        "title": "Ruby on Rails API Design",
+        "link": "content/3/rails-api-design",
+        "source": "andela"
+      },
+      {
+        "name": "rails-templating-engines",
+        "title": "Rails Templating Engines",
+        "link": "content/3/rails-templating-engines",
+        "source": "andela"
+      },
+      {
+        "name": "active-record-orm",
+        "title": "Active Record and ORMs",
+        "link": "content/3/active-record-orm",
+        "source": "andela"
+      },
+      {
+        "name": "tdd-rspec",
+        "title": "TDD using RSpec",
+        "link": "content/3/tdd-rspec",
+        "source": "andela"
+      },
+      {
+        "name": "performance-optimization",
+        "title": "Web Performance Optimization",
+        "link": "content/3/performance-optimization",
+        "source": "andela"
+      },
+      {
+        "name": "application-security",
+        "title": "Web Application Security",
+        "link": "content/3/application-security",
+        "source": "andela"
+      }
+    ]
   },
 
   {
@@ -234,15 +242,13 @@
       "Be familiar with tools used for agile software development",
       "Understand how to use Pivotal Tracker"
     ],
-    "content":[
-
+    "content": [
       {
         "name": "capstone-project",
         "title": "Rails Capstone Project",
         "link": "content/4/capstone-project",
         "source": "andela"
       }
-
-     ]
+    ]
   }
 ]

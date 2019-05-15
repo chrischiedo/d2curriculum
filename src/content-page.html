@@ -233,7 +233,11 @@
         });
       }
 
-      _routeChanged(data) {
+      _findResource(node, name) {
+        return node && node.content && node.content.find(itm => itm.name === name);
+      }
+
+      _routeChanged(data, prevRoute) {
         this.asResource = false;
         const path = data.path;
         const mdlMatch = path.match(/\d{1,2}/);
@@ -255,10 +259,13 @@
           if(this.ahs){
             this.content = this.ahs[ this.pathIndex ];
             this.asResource = true;
-            this.resource = this.content.content.find(itm => itm.name === pathParts[1]);
+            // this.resource = this.content.content.find(itm => itm.name === pathParts[1]);
+            this.resource = this._findResource(this.content, pathParts[1]);
+            if(prevRoute && data.path.startsWith(prevRoute.path)) {
+              this.resource = this._findResource(this.content.content[this.pathIndex], pathParts[1]);
+            }
           }
         }
-
         //ga('send', 'pageview', `${this.rootPattern}modules/${path}`);
       }
 
@@ -288,9 +295,9 @@
       }
 
       _renderDone() {
-        console.log('renderDone', this.moduleIndex);
-        let outLinks = document.querySelectorAll('a [href=http*]');
-        console.log(outLinks);
+        // console.log('renderDone', this.moduleIndex);
+        // let outLinks = document.querySelectorAll('a [href=http*]');
+        // console.log(outLinks);
       }
 
     }
