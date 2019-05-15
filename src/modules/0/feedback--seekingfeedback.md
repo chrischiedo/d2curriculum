@@ -3,11 +3,9 @@ Seeking feedback is the ability to be relentless in your pursuit of external inf
 
 Click on the image below to watch the video on "Seeking Feedback".
 
-[![Seeking Feedback](http://img.youtube.com/vi/ijB2KFFwp7c/0.jpg)](http://www.youtube.com/watch?v=ijB2KFFwp7c "Seeking Feedback") 
+[![Seeking Feedback](http://img.youtube.com/vi/ijB2KFFwp7c/0.jpg)](http://www.youtube.com/watch?v=ijB2KFFwp7c "Seeking Feedback")
 
 Feedback is critical to self-awareness. Systematic response to feedback breeds trust and respect. If you truly value feedback you must commit to acting on it. Structure is critical to self-improvement. When you add structure to your goals, you become a much more powerful learner.
-
-<br />
 
 <img src="images/feedback-1311638_640.png" width="500" height = "300"/>
 
@@ -23,7 +21,6 @@ B. **When you notice yourself strategizing on a solution/implementation without 
 
 C. Frequently seek feedback at appropriate times and avenues from all stakeholders to identify areas for improvement
 
-<br />
 
 -------
 
@@ -38,9 +35,6 @@ C. Express appreciation for the feedback
 D. Inform the person that delivered the feedback that you will act on their feedback
 
 E. When you receive feedback via a public channel, embrace the feedback and try to recognize the value of sharing it openly, rather than take it personally
-
-
-<br />
 
 -------
 
@@ -58,8 +52,6 @@ C. **After deciding on a structured approach to address feedback,**
 D. ** After sufficient time has passed to make progress on your structured response to feedback, **
 - record notes / data on your progress and share with relevant stakeholders
 
-<br />
-
 -------
 
 **Here are ways to respond to feedback you do not agree with:**
@@ -70,8 +62,6 @@ B. Seek input from an invested 3rd party to determine if you are failing to reco
 
 C. Calmly discuss the feedback with the person until there is mutual understanding
 
-<br />
-
 -------
 
 **Here are ways to get your team members to share honest feedback with you:**
@@ -79,8 +69,6 @@ C. Calmly discuss the feedback with the person until there is mutual understandi
 A. Work with them to improve the flow of open and direct feedback
 
 B. Guide conversations with them to uncover more open, direct, and actionable feedback
-
-<br />
 
 Study Resources
 ----------------
@@ -93,6 +81,3 @@ Study Resources
 | * How To Learn In 2 Days What Normally Takes 6 Months |https://medium.com/thrive-global/how-to-learn-in-2-days-what-normally-a3c27c0fa6e1|
 | * Taking Constructive Criticism Like a Champ|https://www.themuse.com/advice/taking-constructive-criticism-like-a-champ|
 | * Receiving constructive feedback|http://www.feedback.tips/receiving-constructive-feedback-for-employees-from-managers|
-
-
-

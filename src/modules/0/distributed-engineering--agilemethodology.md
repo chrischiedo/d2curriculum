@@ -13,9 +13,6 @@ Click on the image below to watch the video on "what Agile is and what Agile is 
 3. [Scrum 101 - Scrum Values](https://www.youtube.com/watch?v=o_grcE4tkzY)
 4. [Scrum 101 - Scrum Terms Review](https://www.youtube.com/watch?v=zn7Vw0zJFig)
 
-
-<br />
-
 -------
 
 Study Resources
@@ -26,5 +23,3 @@ Study Resources
 |:---------|:----------|
 | * The Agile Methodology - everything you need to know|https://luis-goncalves.com/what-is-agile-methodology/|
 | * The Scrum Methodology - everything you need to know|https://luis-goncalves.com/what-is-scrum-methodology/|
-
-

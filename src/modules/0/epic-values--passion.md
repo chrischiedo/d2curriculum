@@ -11,7 +11,7 @@ With this life approach, you believe you can change the world and you act accord
 
 **What do you need to know about Passion?**
 
-| What you need to know   | 
+| What you need to know   |
 |:---------|
 | * What Passion means to an Andelan|
 | * Andela’s mission|
@@ -24,7 +24,7 @@ With this life approach, you believe you can change the world and you act accord
 
 **How to demonstrate Passion**
 
-A. **When you notice a colleague is in low spirits** 
+A. **When you notice a colleague is in low spirits**
 - inspire them through your thoughts, actions and commitment
 
 B. **When you notice you are in low spirits,**
@@ -46,18 +46,13 @@ F. **When you feel like giving up,**
 G. **To prepare for inevitable setbacks,**
 - build support systems that you can turn to when you need help.
 
-<br />
-
 -------
 
 **What do you need to believe to demonstrate Passion?**
 
-a. You are going to change the world, and you act accordingly. <br />
-b. Where others give up, you persist. <br />
-c. In all you do there is a defined sense of direction and purpose. <br />
-d. Passion is that which deeply moves you. It’s the fire from within which motivates you. <br />
-e. Experiencing failure increases your drive to succeed. <br />
-f. Setbacks are inevitable, and they won’t hold you from achieving your dreams. <br />
-
-
-
+a. You are going to change the world, and you act accordingly.
+b. Where others give up, you persist.
+c. In all you do there is a defined sense of direction and purpose.
+d. Passion is that which deeply moves you. It’s the fire from within which motivates you.
+e. Experiencing failure increases your drive to succeed.
+f. Setbacks are inevitable, and they won’t hold you from achieving your dreams.

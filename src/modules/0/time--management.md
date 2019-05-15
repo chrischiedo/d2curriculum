@@ -31,9 +31,6 @@ Click on the image below to watch the video on "how to maximize your productivit
 
 <i>Ref</i>: [15 Time Management Tips for Achieving Your Goals](https://www.entrepreneur.com/article/299336)
 
-
-<br />
-
 -------
 
 Study Resources
@@ -46,5 +43,3 @@ Study Resources
 | * How to Handle Time Zone Differences When Working With Offshore Software Development Teams|https://www.daxx.com/blog/offshore-team/time-difference-offshore-development|
 | * SCRUM: Twice the Work, Half the Time|https://www.youtube.com/watch?v=RaaBrPCo_Mw&feature=youtu.be|
 | * Creating a time management system using Trello|https://www.youtube.com/watch?v=H6LSKoB-bHE|
-
-

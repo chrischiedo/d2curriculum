@@ -9,7 +9,7 @@ Vision Alignment is the ability to articulate the vision of your Partner in thei
 When you understand the vision of the teams and organizations you work with, you gain clarity on how your work impacts the team’s ability to reach their goals and you become a much more effective member of their team.
 
 -----
-**Here are ways to align with the vision of a team/organization:** 
+**Here are ways to align with the vision of a team/organization:**
 
 **When you join the organization:**
 - Actively seek and gain an understanding of the organization's vision and how my work furthers the organization's vision
@@ -21,12 +21,10 @@ When you understand the vision of the teams and organizations you work with, you
 - Compare the vision statement to other similar statements you have heard and to the company’s broader business objectives
 - Take note any differences that may exist between the business objectives and the vision statement. Consider why those differences might exist and share your thoughts with a colleague for feedback
 
-<br />
-
 -------
 
 **How to Think Holistically**
-<br />
+
 Holistic Thinking is the ability to understand the big picture of how your work impacts the partner team, the application they are working on, and the end user of the product. This can be done by incorporating your understanding in asking questions to better flesh out features and ensure that the changes the partner team make address all these factors, rather than strictly implementing a request as specified.
 
 <img src="images/security-3014154_640.jpg" />
@@ -37,8 +35,6 @@ Holistic Thinking is the ability to understand the big picture of how your work 
 - Become a problem solver, not a task completer
 - Better understand the value my work and I am more capable of delivering the best solution
 - Ensure that your task has a greater positive impact on your organization
-
-<br />
 
 **Here are ways to think holistically in a distributed environment:**
 A. **When you first join an organization,**
@@ -52,8 +48,6 @@ D. **When planning to make a change to a product,**
 E. **When you identify a change you believe would better suit the needs of the product,**
 - organization, and/or users, propose the change and explain the value from a detailed and big picture perspective
 
-<br />
-
 Study Resources
 ----------------
 
@@ -61,6 +55,3 @@ Study Resources
 | Topic   |  Web Link      |
 |:---------|:----------|
 | * Aligning to the Vision and Mission of Your Organization|https://cyfar.org/aligning-vision-and-mission-your-organization|
-
-
-

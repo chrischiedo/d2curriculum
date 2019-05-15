@@ -11,7 +11,7 @@ With this life approach, you aspire to be the best possible version of yourself.
 
 **What do you need to know about Excellence?**
 
-| What you need to know   | 
+| What you need to know   |
 |:---------|
 | * What “excellence” means to Andelans|
 | * The difference between “excellence” and “perfection”|
@@ -26,7 +26,7 @@ With this life approach, you aspire to be the best possible version of yourself.
 
 **How to demonstrate Excellence**
 
-A. **Before you begin any work,** 
+A. **Before you begin any work,**
 - prepare your mind and your tools.
 
 B. **When you are confronted with a problem,**
@@ -50,8 +50,6 @@ F. **To succeed in everything you do today,**
 G. **When you experience fear of failure,**
 - channel that energy into improving your chances of success.
 
-<br />
-
 -------
 
 **What do you need to believe to achieve excellence?**
@@ -66,18 +64,15 @@ g. When the world says “it is impossible,” you make it possible.
 h. You solve your own problems to the benefit of others.
 i. You will learn something new everyday.
 j. Excellent mentality will start producing excellent thoughts, excellent thoughts produce excellent actions such as:
-<br />
-- Taking initiative <br />
-- Having a broad vision <br />
-- Finishing what you start <br />
-- Doing more than what is asked of you <br />
-- Striving to improve and be well informed <br />
-- Making intentional use of every moment of your time <br />
-- Planning before acting <br />
-- Managing and resolving conflict <br />
-- Respecting others <br />
-- Using the best available resources <br />
-- Knowing how to express yourself clearly, in writing or verbally <br />
 
-
-
+- Taking initiative
+- Having a broad vision
+- Finishing what you start
+- Doing more than what is asked of you
+- Striving to improve and be well informed
+- Making intentional use of every moment of your time
+- Planning before acting
+- Managing and resolving conflict
+- Respecting others
+- Using the best available resources
+- Knowing how to express yourself clearly, in writing or verbally

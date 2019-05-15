@@ -14,8 +14,8 @@ Click on the image below to watch the video on "how to build trust and relations
 
 **Here are ways to build relationships within your team:**
 
-A. **When meeting a new person for the first time,** 
-- proactively engage them and seek to connect with them	
+A. **When meeting a new person for the first time,**
+- proactively engage them and seek to connect with them
 
 B. **When joining a new organization,**
 - engage and connect with everyone whose role is related to your work.
@@ -29,9 +29,6 @@ D. **When working on a task that would benefit from the input of people you have
 E. **When interacting with people with different backgrounds from yours,**
 - be conscious of these differences and account for their impact in your engagement
 
-
-<br />
-
 -------
 
 Study Resources
@@ -43,5 +40,3 @@ Study Resources
 | * 5 ways to remember every colleague’s or teammate’s name|https://medium.com/@YamenOsaretin/5-ways-to-remember-every-colleagues-or-teammate-s-name-1d2ea9dc5fe4|
 | * Building great work relationships|https://www.mindtools.com/pages/article/good-relationships.htm|
 | * How to develop effective work relationships|https://www.thebalancecareers.com/developing-effective-work-relationships-1919386|
-
-

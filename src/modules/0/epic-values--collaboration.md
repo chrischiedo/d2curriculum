@@ -7,7 +7,7 @@ With this life approach, you will be able to have a greater impact by joining fo
 
 **What do you need to know about Collaboration?**
 
-| What you need to know   | 
+| What you need to know   |
 |:---------|
 | * What different types of “diversity” are|
 | * How to collaborate differently with individuals based on their identity and behavioral styles|
@@ -19,7 +19,7 @@ With this life approach, you will be able to have a greater impact by joining fo
 
 **How to demonstrate Collaboration**
 
-A. **When you have a goal in mind,** 
+A. **When you have a goal in mind,**
 - you ask yourself: “How do you make it easier for others to help you achieve your goal?”
 - seek and accept diverse ideas and view the output from different lenses.
 
@@ -37,17 +37,14 @@ D. **When making collaboration requests to a group larger than 6 people,**
 E. **When making collaboration requests to a group less than 7 people,**
 - consider presenting a problem space and exploring it together before offering solutions.
 
-
-<br />
-
 -------
 
 **What do you need to believe to achieve Collaboration?**
 
-a. You trust 'We' more than you trust 'You'. <br />
-b. Our Sum is greater than our Parts. <br />
-c. You are not limited by borders, real or imaginary. <br />
-d. Our strength is in our diversity. <br />
-e. The magic happens when we work together. <br />
-f. You inspire people with debate rather than infecting them with complaints. <br />
-g. There is nothing more powerful than the collective wisdom of a diverse community. <br />
+a. You trust 'We' more than you trust 'You'.
+b. Our Sum is greater than our Parts.
+c. You are not limited by borders, real or imaginary.
+d. Our strength is in our diversity.
+e. The magic happens when we work together.
+f. You inspire people with debate rather than infecting them with complaints.
+g. There is nothing more powerful than the collective wisdom of a diverse community.

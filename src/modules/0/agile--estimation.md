@@ -1,5 +1,5 @@
 ### **Agile Estimation**
-Estimation in an agile team is the ability to systematically break down work into individual tasks and provide estimates on each to ultimately derive an estimate on the level of effort and time required to complete the work. 
+Estimation in an agile team is the ability to systematically break down work into individual tasks and provide estimates on each to ultimately derive an estimate on the level of effort and time required to complete the work.
 
 
 <img src="images/project-363266_640-2.jpg" />
@@ -27,9 +27,6 @@ Click on the image below to watch the video on "Agile Estimation".
 4. **After the tasks have been completed,**
 - compare the actual level of effort to the estimated level of effort to re-calibrate my ability to estimate accurately
 
-
-<br />
-
 -------
 
 Study Resources
@@ -44,4 +41,3 @@ Study Resources
 | * Agile Burn-down chart explained - video |https://www.youtube.com/watch?v=gPC9Q7q-Kxw&feature=youtu.be|
 | * Agile Estimation - Pluralsight course |https://app.pluralsight.com/library/courses/agile-estimation/table-of-contents|
 | * How To Estimate Software Development Projects Realistically |https://intersog.com/blog/tech-tips/how-to-estimate-software-development-projects-realistically/|
-

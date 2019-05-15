@@ -7,9 +7,6 @@ Click on the image below to watch the video on "5 Leadership Skills Every Engine
 
 [![Leadership](http://img.youtube.com/vi/dctCHFXXoBo/0.jpg)](http://www.youtube.com/watch?v=dctCHFXXoBo "Leadership")
 
-
-<br />
-
 ------
 
 **Here are ways to demonstrate leadership abilities within a team:**
@@ -31,9 +28,6 @@ E. **After understanding unexpected demands,**
 
 F. Everyday, engage yourself in introspection to improve your self-awareness
 
-
-<br />
-
 -------
 
 Study Resources
@@ -46,4 +40,3 @@ Study Resources
 | * How to successfully lead a Software Development Team|https://medium.com/the-andela-way/how-to-successfully-lead-a-software-development-team-6b9a6ffcf760|
 | * The path to technical leadership: how to go from developer to team leader|https://medium.freecodecamp.org/the-path-to-technical-leadership-how-to-go-from-developer-to-team-leader-8c544f15a431|
 | * Things I Was Unprepared For As A Lead Developer - Video|https://www.youtube.com/watch?v=AwuqJ1qORag|
-

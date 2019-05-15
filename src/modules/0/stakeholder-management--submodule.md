@@ -28,9 +28,6 @@ Click on the image below to watch the video on "how to engage and manage stakeho
 7. **When speaking to anyone about organizations you work with,**
 - be able to completely describe the team, roles, goals and history of those organizations confidently
 
-
-<br />
-
 -------
 
 Study Resources

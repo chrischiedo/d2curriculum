@@ -18,7 +18,7 @@ Click on the image below to watch the video on "Who is a Mentor?".
 A. **When you have learning experiences that you think could add value to many junior engineers experience,**
 - document them and share with junior engineers through appropriate avenues (e.g. slack channels)
 
-B. **When you notice that an engineer could benefit from your guidance on a technical or business issue,** 
+B. **When you notice that an engineer could benefit from your guidance on a technical or business issue,**
 - offer them your support
 
 C. **When an engineer asks for help,**
@@ -29,9 +29,6 @@ D. **When providing support or guidance to another engineer,**
 
 E. **Within 2 weeks of mentoring an engineer,**
 - check in with them and see if they learned from the mentorship experience and if there is anything else you can do to support
-
-
-<br />
 
 -------
 

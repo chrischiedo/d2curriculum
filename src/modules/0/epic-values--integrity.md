@@ -7,7 +7,7 @@ With this life approach, you live in accordance with your values. You know that 
 
 **What do you need to know about Integrity?**
 
-| What you need to know  | 
+| What you need to know  |
 |:---------|
 | * Definition of Integrity|
 | * Techniques to resolve conflicts that preserve the sense of team and personal integrity|
@@ -21,7 +21,7 @@ With this life approach, you live in accordance with your values. You know that 
 
 **Behaviors that help me demonstrate Integrity**
 
-A. **When you feel stuck,** 
+A. **When you feel stuck,**
 - be open about the blockers and challenges you are facing, and ask for help from your support system.
 
 B. **When you don't understand something,**
@@ -47,24 +47,20 @@ G. **When you are noticing something that’s uncomfortable or anxiety-provoking
 H. **When you notice an action that could be harmful to Andela**
 - raise your concerns with all parties involved.
 
-<br />
-
 -------
 
 **What do you need to believe to demonstrate Integrity?**
 
-a. Integrity is a two-way responsibility: as others hold you accountable, you hold yourself and others accountable. <br />
-b. What you think, say, or believe is only meaningful if you also act accordingly. <br />
-c. Integrity brings respect, trust, and appreciation from others. <br />
-d. Trust can be built or destroyed over time. <br />
-e. Acting with Integrity means that you are: <br />
--Honest <br />
--Fair & Just <br />
--Sincere <br />
--Reflective of my Values <br />
--Balanced <br />
--Kind <br />
--Authentic <br />
+a. Integrity is a two-way responsibility: as others hold you accountable, you hold yourself and others accountable.
+b. What you think, say, or believe is only meaningful if you also act accordingly.
+c. Integrity brings respect, trust, and appreciation from others.
+d. Trust can be built or destroyed over time.
+e. Acting with Integrity means that you are:
 
-
-
+-Honest
+-Fair & Just
+-Sincere
+-Reflective of my Values
+-Balanced
+-Kind
+-Authentic

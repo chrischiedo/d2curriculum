@@ -46,8 +46,6 @@ I. **When you identify areas where you could be more challenged,**
 J. **When you propose a change that is not accepted,**
 - adapt to the approach taken by your Client.
 
-<br>
-
 Study Resources
 -------------
 
@@ -59,6 +57,3 @@ Study Resources
 | * How To Learn In 2 Days What Normally Takes 6 Months |https://medium.com/thrive-global/how-to-learn-in-2-days-what-normally-a3c27c0fa6e1|
 | * Change management explained|https://www.youtube.com/watch?v=V-UVX3GjY34|
 |*AdaptabilitySkills|https://www.businessphrases.net/adaptability-skills/|
-
-
-
