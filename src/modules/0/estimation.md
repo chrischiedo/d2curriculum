@@ -16,8 +16,8 @@ This module assists you in strengthening your ability to estimate how long featu
 
 |                          |
 | ------------------------ |
-| * [Agile Estimation](..0/Agile-estimation-submodule.md)  |
-| * [Time Management](..0/Time-management-submodule.md)                        |
+| * [Agile Estimation](content/0/agile--estimation)  |
+| * [Time Management](content/0/time--management)                        |
 
 ## **Knowledge Check**
 **Be able to create the following:**

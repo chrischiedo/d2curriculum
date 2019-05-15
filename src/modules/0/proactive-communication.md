@@ -26,7 +26,7 @@ Proactive communication involves addressing potential problems in the team befor
 
 |                          |
 | ------------------------ |
-| * [Proactive Communication in a Distributed Team](..0/Proactive-communication-submodule.md)  |
+| * [Proactive Communication in a Distributed Team](content/0/proactive-communication--submodule)  |
 
 
 

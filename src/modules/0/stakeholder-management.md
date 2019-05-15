@@ -18,8 +18,8 @@ This module covers the importance and impact of managing stakeholders expectatio
 
 |                          |
 | ------------------------ |
-| * [Stakeholder Management](..0/Stakeholder-management-submodule.md)  |
-| * [Expectations Management](..0/Expectations-Management-submodule.md)  |
+| * [Stakeholder Management](content/0/stakeholder-management--submodule)  |
+| * [Expectations Management](content/0/stakeholder-management--expectations)  |
 
 
 ## **Knowledge Check**

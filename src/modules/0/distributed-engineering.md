@@ -20,8 +20,8 @@ This module explains how you can contribute to a Distributed Engineering Teams p
 
 |                          |
 | ------------------------ |
-| * [Distributed Engineering Teams Best Practices](..0/Distributed-bestpractices-submodule.md)  |
-| * [The Agile Methodology](..0/Agile-methodology-Submodule.md)                        |
+| * [Distributed Engineering Teams Best Practices](content/0/distributed-engineering--bestpractices)  |
+| * [The Agile Methodology](content/0/distributed-engineering--agilemethodology)                        |
 
 
 

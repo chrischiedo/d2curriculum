@@ -21,8 +21,8 @@ This means understanding the business as much as the technology is a great way t
 
 |                          |
 | ------------------------ |
-| * [Understanding the Business, Mission and Operating Structure of a team/company](..0/Understand-business-submodule.md)  |
-| * [Vision Alignment & Holistic Thinking](..0/Vision-alignment-Submodule.md)                        |
+| * [Understanding the Business, Mission and Operating Structure of a team/company](content/0/organization-awareness--business)  |
+| * [Vision Alignment & Holistic Thinking](content/0/organization-awareness--visionalignment)                        |
 
 
 ## **Knowledge Check**

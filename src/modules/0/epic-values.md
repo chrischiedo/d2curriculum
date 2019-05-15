@@ -21,9 +21,9 @@ This module defines Andela’s EPIC values and how they can be applied.
 |                          |
 | ------------------------ |
 | * [Excellence](content/0/epic-values--excellence)  |
-| * [Passion](..0/Passion-submodule.md)  |
-| * [Integrity](..0/integrity-submodule.md)  |
-| * [Collaboration](..0/Collaboration-submodule.md)  |
+| * [Passion](content/0/epic-values--passion)  |
+| * [Integrity](content/0/epic-values--integrity)  |
+| * [Collaboration](content/0/epic-values--collaboration)  |
 
 
 

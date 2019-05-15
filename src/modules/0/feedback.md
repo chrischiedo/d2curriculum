@@ -19,7 +19,7 @@ When we share our ideas or work with others, we receive insights that can improv
 
 |                          |
 | ------------------------ |
-| * [Seeking Feedback](..0/Seekingfeedback-submodule.md)  |
+| * [Seeking Feedback](content/0/feedback--seekingfeedback)  |
 
 
 

@@ -13,7 +13,7 @@ This module highlights project management tools used in software development and
 
 |                          |
 | ------------------------ |
-| * [Project Management Tools](..0/Projectmanagement-tools-submodule.md)  |
+| * [Project Management Tools](content/0/project-management--tools)  |
 
 ## **Knowledge Check**
 1. List at least 4 project management tools you have worked with. In your own words, describe the best practices you follow while working with these tools
